@@ -1,0 +1,24 @@
+{
+  "name": "cat_family_kb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szcai1998/Cat_Family_KB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szcai1998/Cat_Family_KB/issues"
+  },
+  "homepage": "https://github.com/szcai1998/Cat_Family_KB#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "prettier": "^3.8.3"
+  }
+}
