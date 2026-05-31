@@ -1,6 +1,6 @@
 # Felidae Family Tree
 
-Below is a simplified family tree of the cat family.  It highlights the two primary subfamilies (_Pantherinae_ and _Felinae_) and the main genera within each.  For clarity only the species featured in this atlas are listed.
+Below is a simplified family tree of the cat family. It highlights the two primary subfamilies (_Pantherinae_ and _Felinae_) and the main genera within each. For clarity only the species featured in this atlas are listed.
 
 ```
 Felidae
@@ -30,6 +30,6 @@ Felidae
         └── Siberian forest cat (*Felis catus*)
 ```
 
-This tree reflects the current consensus that the cheetah, puma and other “big but not roaring” cats belong to _Felinae_【943641874497049†L60-L67】.  Additional felid genera such as *Prionailurus*, *Caracal* (African golden cat), *Leopardus* (several spotted cats) and *Lynx* (bobcats and Canadian lynx) are not shown but follow similar branching patterns.
+This tree reflects the current consensus that the cheetah, puma and other “big but not roaring” cats belong to _Felinae_【943641874497049†L60-L67】. Additional felid genera such as _Prionailurus_, _Caracal_ (African golden cat), _Leopardus_ (several spotted cats) and _Lynx_ (bobcats and Canadian lynx) are not shown but follow similar branching patterns.
 
 For more discussion on the distinction between big and small cats see **[[Pantherinae_vs_Felinae.md]]**.

@@ -1,6 +1,6 @@
 # Habitat Fragmentation
 
-Habitat fragmentation occurs when continuous natural areas are divided into smaller, isolated patches by roads, agriculture or development.  For wide‑ranging predators like cats, fragmentation reduces available territory, restricts movement and isolates populations.
+Habitat fragmentation occurs when continuous natural areas are divided into smaller, isolated patches by roads, agriculture or development. For wide‑ranging predators like cats, fragmentation reduces available territory, restricts movement and isolates populations.
 
 ## Impacts on felids
 
@@ -11,7 +11,7 @@ Habitat fragmentation occurs when continuous natural areas are divided into smal
 
 ## Conservation solutions
 
-- **Protected area networks:** Expanding and connecting reserves through wildlife corridors allows animals to move safely between patches.  Examples include proposed tiger corridors between Russia and China.
+- **Protected area networks:** Expanding and connecting reserves through wildlife corridors allows animals to move safely between patches. Examples include proposed tiger corridors between Russia and China.
 - **Landscape planning:** Integrating wildlife needs into agricultural and infrastructure development reduces the impact of fragmentation.
 - **Restoration:** Reforesting and rehabilitating degraded land creates stepping stones for dispersing individuals.
 

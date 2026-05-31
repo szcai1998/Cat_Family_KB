@@ -1,10 +1,10 @@
 # Conservation Organisations and Sources
 
-Numerous organisations, researchers and community groups work to conserve wild cats and their habitats.  This page lists some key institutions and information sources relevant to the species covered in the Cat Family Atlas.  Inclusion here does not imply endorsement; readers should explore multiple sources when seeking the most current information.
+Numerous organisations, researchers and community groups work to conserve wild cats and their habitats. This page lists some key institutions and information sources relevant to the species covered in the Cat Family Atlas. Inclusion here does not imply endorsement; readers should explore multiple sources when seeking the most current information.
 
 ## Global organisations
 
-- **Panthera** – an international conservation organisation dedicated to the protection of the world’s wild cats through science and fieldwork.  Projects include tiger corridors, lion recovery and jaguar safe landscapes.
+- **Panthera** – an international conservation organisation dedicated to the protection of the world’s wild cats through science and fieldwork. Projects include tiger corridors, lion recovery and jaguar safe landscapes.
 - **Snow Leopard Trust** – focuses exclusively on snow leopard conservation through research, community partnerships and education.
 - **WildCats Conservation Alliance** – supports conservation of tigers and Amur leopards across Asia by funding anti‑poaching, habitat protection and community outreach【362655593780840†L88-L123】.
 - **IUCN Cat Specialist Group** – a network of scientists and conservationists that compiles the Cat Classification Task Force and assesses species for the IUCN Red List.

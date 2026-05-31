@@ -1,6 +1,6 @@
 # Visual Prompt Template
 
-When generating images or commissioning artwork, well‑crafted prompts yield better results.  Use the template below as a guide for writing prompts for hero posters, range maps, trait illustrations and other visuals.  Adapt the parameters (subject, environment, mood, lighting, composition) to match the species and desired style.
+When generating images or commissioning artwork, well‑crafted prompts yield better results. Use the template below as a guide for writing prompts for hero posters, range maps, trait illustrations and other visuals. Adapt the parameters (subject, environment, mood, lighting, composition) to match the species and desired style.
 
 ```
 **Prompt title:** {e.g. “Snow Leopard Hero Poster”}
@@ -21,4 +21,4 @@ When generating images or commissioning artwork, well‑crafted prompts yield be
 
 ```
 
-Use separate prompts for each visual asset.  Adjust wording to guide the AI or artist toward the desired result.  Save prompts in `04_Visual_Production/Species_Prompt_Sets` or `Prompt_Templates`.
+Use separate prompts for each visual asset. Adjust wording to guide the AI or artist toward the desired result. Save prompts in `04_Visual_Production/Species_Prompt_Sets` or `Prompt_Templates`.

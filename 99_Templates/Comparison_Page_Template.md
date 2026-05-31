@@ -1,6 +1,6 @@
 # Comparison Page Template
 
-Comparison pages examine similarities and differences between two or more species.  They help readers appreciate evolutionary convergence and ecological divergence.  Use this template when creating pages like “Tiger vs Lion” or “Cheetah vs Leopard”.
+Comparison pages examine similarities and differences between two or more species. They help readers appreciate evolutionary convergence and ecological divergence. Use this template when creating pages like “Tiger vs Lion” or “Cheetah vs Leopard”.
 
 ```
 # {Comparison title}
@@ -35,4 +35,4 @@ Reflect on what this comparison reveals about adaptation and evolution.
 
 ```
 
-Cite sources for all factual statements.  Feel free to include images or diagrams to illustrate differences.
+Cite sources for all factual statements. Feel free to include images or diagrams to illustrate differences.

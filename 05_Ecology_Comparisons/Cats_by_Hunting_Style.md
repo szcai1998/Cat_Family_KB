@@ -1,6 +1,6 @@
 # Cats by Hunting Style
 
-Felids have evolved diverse hunting strategies to exploit different prey types and habitats.  Some specialise in long chases, others in leaping from cover, and some are opportunistic generalists.
+Felids have evolved diverse hunting strategies to exploit different prey types and habitats. Some specialise in long chases, others in leaping from cover, and some are opportunistic generalists.
 
 ## Pursuit hunters
 
@@ -12,7 +12,7 @@ Felids have evolved diverse hunting strategies to exploit different prey types a
 
 - **Tiger** and **puma** – stocky bodies and powerful forelimbs allow them to spring onto deer, boar or moose from cover【362655593780840†L88-L123】【671062261146697†L312-L318】.
 
-- **Leopard** and **jaguar** – stealthy stalkers that approach within metres before pouncing.  Jaguars are known for killing prey with a skull‑piercing bite【174786318036718†L14-L97】.
+- **Leopard** and **jaguar** – stealthy stalkers that approach within metres before pouncing. Jaguars are known for killing prey with a skull‑piercing bite【174786318036718†L14-L97】.
 
 - **Snow leopard** and **lynx** – ambush specialists adapted to mountainous terrain; they use surprise and short chases on steep slopes【596547831032212†L233-L265】.
 
@@ -30,4 +30,4 @@ Felids have evolved diverse hunting strategies to exploit different prey types a
 
 - **Ocelot** – consumes small rodents, birds, reptiles, fish and crustaceans【655136759873302†L94-L115】.
 
-Hunting styles often overlap; many cats adjust their tactics based on habitat, prey availability and competition.  This diversity underscores the evolutionary success of the Felidae.
+Hunting styles often overlap; many cats adjust their tactics based on habitat, prey availability and competition. This diversity underscores the evolutionary success of the Felidae.

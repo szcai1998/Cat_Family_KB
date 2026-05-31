@@ -1,6 +1,6 @@
 # Poaching and Illegal Trade
 
-The illegal trade in wildlife products is a major driver of population declines in many cat species.  Skins, bones, teeth and claws are sold for decoration, traditional medicine or fashion.  Despite international bans, poaching remains lucrative and difficult to control.
+The illegal trade in wildlife products is a major driver of population declines in many cat species. Skins, bones, teeth and claws are sold for decoration, traditional medicine or fashion. Despite international bans, poaching remains lucrative and difficult to control.
 
 ## Targeted species and products
 
@@ -11,7 +11,7 @@ The illegal trade in wildlife products is a major driver of population declines 
 
 ## Drivers of illegal trade
 
-High demand, poverty in range countries, weak law enforcement and porous borders facilitate poaching.  In some cultures, owning or wearing big cat parts confers status.  Traditional beliefs and misinformation sustain demand for alleged medicinal properties of cat bones and body parts.
+High demand, poverty in range countries, weak law enforcement and porous borders facilitate poaching. In some cultures, owning or wearing big cat parts confers status. Traditional beliefs and misinformation sustain demand for alleged medicinal properties of cat bones and body parts.
 
 ## Combatting poaching
 

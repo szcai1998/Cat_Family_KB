@@ -1,8 +1,8 @@
 # Visual Production
 
-This directory holds assets and templates related to the visual storytelling aspect of the Cat Family Atlas.  Visual production includes hero posters, preview cards, range maps, hunting scene posters, anatomy diagrams and 3D models.  These elements make the atlas feel like a digital museum.
+This directory holds assets and templates related to the visual storytelling aspect of the Cat Family Atlas. Visual production includes hero posters, preview cards, range maps, hunting scene posters, anatomy diagrams and 3D models. These elements make the atlas feel like a digital museum.
 
-Folders here contain placeholder files and guidelines for future content.  When you create new visuals, save them in the appropriate folder and describe them in a corresponding Markdown file.
+Folders here contain placeholder files and guidelines for future content. When you create new visuals, save them in the appropriate folder and describe them in a corresponding Markdown file.
 
 ## Contents
 

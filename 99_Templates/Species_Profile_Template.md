@@ -1,6 +1,6 @@
 # Species Profile Template
 
-Use this template as a starting point for creating new species profiles.  Replace the placeholders (in curly braces) with species‑specific information and remove any unused sections.  Always cite reputable sources for factual statements using the citation format described in the atlas (e.g.【123456789†L10-L20】).
+Use this template as a starting point for creating new species profiles. Replace the placeholders (in curly braces) with species‑specific information and remove any unused sections. Always cite reputable sources for factual statements using the citation format described in the atlas (e.g.【123456789†L10-L20】).
 
 ```
 # {Common Name}
@@ -77,9 +77,11 @@ Describe ideas for hero posters, preview cards, anatomy posters, range maps, hun
 Provide links to relevant taxonomy pages, lineage pages and comparison pages using Obsidian link syntax.  For example:
 
 ```
+
 [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 [[../05_Ecology_Comparisons/Speed_vs_Stealth.md|Speed vs Stealth]]
 [[../03_Exhibit_Modules/Range_and_Habitat/]]
+
 ```
 
 ```

@@ -1,6 +1,6 @@
 # Exhibit Module Template
 
-Use this template to create detailed modules (range & habitat, diet & hunting, behaviour & ecology, build & scale, signature traits, conservation) for a specific species.  Place the file in the appropriate folder within `03_Exhibit_Modules` and name it using the species name and topic, e.g. `Tiger_Range_and_Habitat.md`.
+Use this template to create detailed modules (range & habitat, diet & hunting, behaviour & ecology, build & scale, signature traits, conservation) for a specific species. Place the file in the appropriate folder within `03_Exhibit_Modules` and name it using the species name and topic, e.g. `Tiger_Range_and_Habitat.md`.
 
 ```
 # {Species} – {Module topic}

@@ -16,7 +16,9 @@ The Cat Family Atlas is a comprehensive, museum-style, modular knowledge base co
 
 - **Museum Modularity**: Maintain high modularity. Keep general summaries in `02_Species_Profiles` and detailed information in `03_Exhibit_Modules` subfolders.
 - **Strict Template Compliance**: Create new species profiles and exhibit modules using the exact markdown files in `99_Templates` as blueprints.
-- **Tether Citations**: Place precise source citations using tether notation (e.g., `【source_id†Lxx-Lyy】`) immediately following any non-trivial statement, particularly for sizes, weights, ranges, and conservation status.
+- **Museum Placard Rule**: Every Museum Summary must start with a vivid, evocative storytelling hook — a nickname, a vivid scene, or a memorable metaphor — before introducing statistics.
+- **Parenthetical Definition Rule**: Never drop scientific jargon without immediately explaining it in plain English in parentheses. E.g., _crepuscular (twilight-active, hunting at dawn and dusk)_.
+- **Active Narrative Voice**: Describe what the cat _does_, not just what it _has_. Use active verbs that make the animal feel alive.
 - **Relative Path References**: Always use relative paths (e.g., `../04_Visual_Production/...`) to link to assets and placeholders.
 - **Git Commit Message Format**: Use Conventional Commits (`feat(species): ...`, `fix(links): ...`, `chore: ...`).
 
@@ -74,10 +76,11 @@ The Cat Family Atlas is a comprehensive, museum-style, modular knowledge base co
 
 ## Never Do (Hard Rules)
 
-- Never delete or modify existing source citations/tether links in species profiles unless explicitly instructed by the user.
 - Never use generic or ad-hoc templates; always follow the formats in `99_Templates`.
 - Never use inline CSS/styles inside markdown files.
 - Never commit broken relative links or absolute file paths.
+- Never use cryptic tether citation codes (e.g. `【362655593780840†L60-L114】`) — these are unreadable and should be removed or replaced with plain inline attribution when editing.
+- Never open a Museum Summary with a list of dry dimensions and weights — always lead with a narrative hook.
 
 ## Always Do (Mandatory Practices)
 
@@ -85,3 +88,5 @@ The Cat Family Atlas is a comprehensive, museum-style, modular knowledge base co
 - Always ensure new species profiles are linked within `00_Atlas_Home/Species_Index.md`.
 - Always run link-checking scripts/Prettier format validation before finalizing changes.
 - Always use relative markdown links (`[[relative-path|link-text]]` or `[link-text](relative-path)`) adhering to local conventions.
+- Always define scientific jargon in parentheses immediately after using it.
+- Always include a `Visual Production Notes` section with AI prompt ideas for each species profile.
