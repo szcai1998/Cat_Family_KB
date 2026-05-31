@@ -1,6 +1,21 @@
+---
+scientific_name: "Puma concolor"
+biome: "Wide range including forests, mountains, deserts and grasslands"
+iucn_status: "Near Threatened."
+taxonomic_group: "Subfamily Felinae; genus Puma"
+aliases:
+  - "Panther"
+  - "catamount"
+  - "painter; Guinness World Record holder for the animal with the highest number of names."
+tags:
+  - species
+  - felidae
+---
 # Puma / Cougar / Mountain Lion
 
 > **The ghost cat of the mountains, traversing the absolute length of the Americas with Olympic athletic power**
+
+![Puma / Cougar / Mountain Lion](../04_Visual_Production/Hero_Posters/11_puma_cougar_mountain_lion.png)
 
 ## 1. Core Identity
 

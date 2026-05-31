@@ -1,6 +1,20 @@
+---
+scientific_name: "Felis margarita"
+biome: "Extreme desert — sandy, stony, and rocky desert including the Sahara, Arabian Peninsula, and Central Asian sandy deserts (the Karakum and Kyzylkum)"
+iucn_status: "Least Concern (LC) — however, the assessment is severely limited by data deficiency (insufficient population data to accurately assess true status); many authorities consider the Sand Cat significantly data deficient and potentially more threatened than the classification suggests"
+taxonomic_group: "Family Felidae → Subfamily Felinae → Genus Felis"
+aliases:
+  - "Sand Dune Cat"
+  - "Saharan Sand Cat"
+tags:
+  - species
+  - felidae
+---
 # Sand Cat
 
 > The desert's most unlikely conqueror — a small, wide-eared cat that walks on burning sand no other felid can cross, survives without drinking a single drop of water, and vanishes so completely it eluded researchers for decades.
+
+![Sand Cat](../04_Visual_Production/Hero_Posters/22_sand_cat.png)
 
 ## 1. Core Identity
 

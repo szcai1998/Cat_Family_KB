@@ -1,6 +1,22 @@
+---
+scientific_name: "Panthera leo persica"
+biome: "Dry deciduous forest and scrubland savanna"
+iucn_status: "Endangered (EN) — faces a very high risk of extinction in the wild"
+taxonomic_group: "Family Felidae → Subfamily Pantherinae → Genus Panthera"
+aliases:
+  - "Indian Lion"
+  - "Persian Lion"
+  - "Gir Lion"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Asiatic Lion
 
 > The last lion standing outside Africa — a regal survivor clinging to a single sacred forest in India, proof that one determined habitat can hold a species back from the brink.
+
+![Asiatic Lion](../04_Visual_Production/Hero_Posters/19_asiatic_lion.png)
 
 ## 1. Core Identity
 

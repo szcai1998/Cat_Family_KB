@@ -1,6 +1,19 @@
+---
+scientific_name: "Neofelis nebulosa"
+biome: "Tropical and subtropical forests of Southeast Asia"
+iucn_status: "Vulnerable."
+taxonomic_group: "Subfamily Pantherinae; genus Neofelis"
+aliases:
+  - "Mainland clouded leopard"
+tags:
+  - species
+  - felidae
+---
 # Clouded Leopard
 
 > **The modern saber-tooth of the treetops, climbing headfirst through the ancient canopy of Southeast Asia**
+
+![Clouded Leopard](../04_Visual_Production/Hero_Posters/07_clouded_leopard.png)
 
 ## 1. Core Identity
 

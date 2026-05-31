@@ -1,6 +1,21 @@
+---
+scientific_name: "Panthera tigris tigris"
+biome: "Tropical and subtropical moist broadleaf forest; mangrove delta"
+iucn_status: "Endangered (EN) — faces a very high risk of extinction in the wild"
+taxonomic_group: "Family Felidae → Subfamily Pantherinae → Genus Panthera"
+aliases:
+  - "Indian Tiger"
+  - "Royal Bengal Tiger"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Bengal Tiger
 
 > The striped sovereign of South Asia — a 200-kilogram ambush predator that swims tidal rivers, commands miles of jungle, and carries the weight of an entire continent's wild heritage on its shoulders.
+
+![Bengal Tiger](../04_Visual_Production/Hero_Posters/18_bengal_tiger.png)
 
 ## 1. Core Identity
 

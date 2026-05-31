@@ -1,6 +1,20 @@
+---
+scientific_name: "Felis catus (domestic breed)"
+biome: "Human households; historically cold northern forests of Russia"
+iucn_status: "Not applicable – domestic species."
+taxonomic_group: "Subfamily Felinae; species Felis catus"
+aliases:
+  - "Siberian cat"
+  - "Moscow longhair"
+tags:
+  - species
+  - felidae
+---
 # Siberian Forest Cat
 
 > **A rugged Russian treasure, wrapped in a plush triple coat designed to brave the sub-zero taiga**
+
+![Siberian Forest Cat](../04_Visual_Production/Hero_Posters/02_siberian_forest_cat.png)
 
 ## 1. Core Identity
 
@@ -79,7 +93,23 @@ To survive the sub-zero winters of its homeland, the Siberian forest cat evolved
 - **Conservation panel:** Infographic outlining the history of natural breeds in Russia and tips for domestic care.
 - **AI prompt (Midjourney/DALL-E style):** _A magnificent, fluffy Siberian forest cat with green eyes sitting majestically on a snow-covered pine log in a Siberian birch forest, thick neck ruff, long whiskers, soft natural lighting, magical winter atmosphere with light snowfall. Photorealistic, high-detail fur texture, 85mm portrait style._
 
-## 11. Internal Links
+## 11. MVP Visual Deep Dive
+
+This section showcases the native Antigravity AI generations for the Visual MVP, establishing the baseline visual prompts for the rest of the Atlas.
+
+### 🪪 Preview Card
+![Preview Card](../04_Visual_Production/MVP_Siberian_Cat/preview_card.png)
+
+### 🧬 Anatomy Traits
+![Anatomy Diagram](../04_Visual_Production/MVP_Siberian_Cat/anatomy.png)
+
+### ❄️ Hunting Scene
+![Hunting Action](../04_Visual_Production/MVP_Siberian_Cat/hunting.png)
+
+### 🗺️ Range Map
+![Geographic Map](../04_Visual_Production/MVP_Siberian_Cat/range_map.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../01_Taxonomy_and_Evolution/Taxonomy_Notes_and_Caveats.md|Taxonomy Notes and Caveats]]

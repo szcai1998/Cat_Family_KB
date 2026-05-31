@@ -1,6 +1,21 @@
+---
+scientific_name: "Prionailurus planiceps"
+biome: "Lowland tropical rainforest rivers, forest streams, and mangrove-fringed waterways of Sundaland (the biogeographic region encompassing Sumatra, Borneo, the Malay Peninsula, and their surrounding islands)"
+iucn_status: "Endangered (EN) — assessed 2015, due for reassessment"
+taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Prionailurus"
+aliases:
+  - "_Kucing Hutan_ (Malay"
+  - "meaning \"forest cat\"); no widely used alternative English name"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Flat-headed Cat
 
 > Evolution pressed this cat's skull into a wedge, webbed its paws, and sent it hunting underwater — producing one of the most bizarre and least-known felids alive.
+
+![Flat-headed Cat](../04_Visual_Production/Hero_Posters/24_flat_headed_cat.png)
 
 ## 1. Core Identity
 

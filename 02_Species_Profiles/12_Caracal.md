@@ -1,6 +1,19 @@
+---
+scientific_name: "Caracal caracal"
+biome: "Savannas, semi‑deserts and arid mountains"
+iucn_status: "Least Concern."
+taxonomic_group: "Subfamily Felinae; genus Caracal"
+aliases:
+  - "Desert lynx (misleading; caracal is not a lynx)"
+tags:
+  - species
+  - felidae
+---
 # Caracal
 
 > **Black‑eared dryland jumper/hunter**
+
+![Caracal](../04_Visual_Production/Hero_Posters/12_caracal.png)
 
 ## 1. Core Identity
 

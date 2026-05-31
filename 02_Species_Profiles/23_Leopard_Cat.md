@@ -1,6 +1,20 @@
+---
+scientific_name: "Prionailurus bengalensis"
+biome: "Tropical and subtropical forests, forest edges, and secondary growth across East, South, and Southeast Asia"
+iucn_status: "Least Concern (LC) for the species overall — assessed 2022; however, multiple island subspecies are Critically Endangered (facing extremely high risk of extinction in the wild), including P. b. bali (Bali) and the Tsushima population in Japan"
+taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Prionailurus"
+aliases:
+  - "Asian leopard cat; _Billi-bagh_ (Hindi); _Maung Kyaung_ (Burmese)"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Leopard Cat
 
 > Asia's spotted ghost — the small, ancient forest cat whose bloodline runs through every domestic Bengal breed alive today.
+
+![Leopard Cat](../04_Visual_Production/Hero_Posters/23_leopard_cat.png)
 
 ## 1. Core Identity
 

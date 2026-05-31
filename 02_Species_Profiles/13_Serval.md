@@ -1,6 +1,20 @@
+---
+scientific_name: "Leptailurus serval"
+biome: "African savannas and wetlands"
+iucn_status: "Least Concern overall; North African subspecies is endangered."
+taxonomic_group: "Subfamily Felinae; genus Leptailurus"
+aliases:
+  - "Giraffe cat"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Serval
 
 > **Long‑legged wetland/grassland listening hunter**
+
+![Serval](../04_Visual_Production/Hero_Posters/13_serval.png)
 
 ## 1. Core Identity
 

@@ -1,6 +1,21 @@
+---
+scientific_name: "Leopardus pardalis"
+biome: "Tropical and subtropical forests, dense chaparral"
+iucn_status: "Least Concern globally; listed as Endangered in the United States."
+taxonomic_group: "Subfamily Felinae; genus Leopardus"
+aliases:
+  - "Painted leopard"
+  - "dwarf leopard"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Ocelot
 
 > **The painted cat of the shadows, blending into the dappled brushwood of the neotropical forest**
+
+![Ocelot](../04_Visual_Production/Hero_Posters/14_ocelot.png)
 
 ## 1. Core Identity
 

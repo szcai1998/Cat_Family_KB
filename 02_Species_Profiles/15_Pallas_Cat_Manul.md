@@ -1,6 +1,19 @@
+---
+scientific_name: "Otocolobus manul"
+biome: "Central Asian steppes, shrublands and rocky deserts"
+iucn_status: "Least Concern (previously Near Threatened, downlisted in 2020, though many regional populations are declining)."
+taxonomic_group: "Subfamily Felinae; genus Otocolobus"
+aliases:
+  - "Steppe cat"
+tags:
+  - species
+  - felidae
+---
 # Pallas’s Cat / Manul
 
 > **The ultimate round-bodied master of the frozen steppes, turning flat ears and a grumpy face into a survival masterpiece**
+
+![Pallas’s Cat / Manul](../04_Visual_Production/Hero_Posters/15_pallas_cat_manul.png)
 
 ## 1. Core Identity
 

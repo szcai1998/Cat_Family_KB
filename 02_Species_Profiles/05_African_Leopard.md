@@ -1,6 +1,19 @@
+---
+scientific_name: "Panthera pardus pardus (regional subspecies; species P. pardus)"
+biome: "Savannas, woodlands and forests across Africa"
+iucn_status: "Vulnerable."
+taxonomic_group: "Subfamily Pantherinae; genus Panthera"
+aliases:
+  - "Leopard"
+tags:
+  - species
+  - felidae
+---
 # African Leopard
 
 > **The shadow in the canopy, hoisting heavy prey into the branches with unmatched athletic power**
+
+![African Leopard](../04_Visual_Production/Hero_Posters/05_african_leopard.png)
 
 ## 1. Core Identity
 

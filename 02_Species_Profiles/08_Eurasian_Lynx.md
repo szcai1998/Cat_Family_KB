@@ -1,6 +1,20 @@
+---
+scientific_name: "Lynx lynx"
+biome: "Boreal forests, mixed forests and mountains of Europe and Asia"
+iucn_status: "Least Concern globally, though critically endangered or near threatened in many isolated Central and Western European sub-populations."
+taxonomic_group: "Subfamily Felinae; genus Lynx"
+aliases:
+  - "European lynx"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Eurasian Lynx
 
 > **The forest phantom, gliding silently across the snow on outsized paws to surprise unsuspecting deer**
+
+![Eurasian Lynx](../04_Visual_Production/Hero_Posters/08_eurasian_lynx_general.png)
 
 ## 1. Core Identity
 
@@ -69,6 +83,9 @@ The Eurasian lynx is a masterpiece of winter engineering. It features exceptiona
 - **Conservation notes:** Protecting large, continuous forest blocks and building vegetated wildlife overpasses over highways are vital to reconnecting isolated populations.
 
 ## 10. Visual Production Notes
+
+- **Hero exhibit poster:** [View Exhibit Poster](../04_Visual_Production/Hero_Posters/09_eurasian_lynx_hero_exhibit.png)
+
 
 - **Hero poster concept:** A Eurasian lynx standing alert on a massive mossy fallen tree trunk in a snowy pine forest, its black ear tufts silhouetted against the winter sun.
 - **Preview card concept:** Close-up of the lynx's face, spotlighting the flared ruff, ear tufts, and intense amber eyes; icons for snowshoe paws and weight.

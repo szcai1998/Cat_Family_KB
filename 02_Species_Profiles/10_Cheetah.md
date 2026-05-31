@@ -1,6 +1,17 @@
+---
+scientific_name: "Acinonyx jubatus"
+biome: "Open savannas and grasslands"
+iucn_status: "Vulnerable."
+taxonomic_group: "Subfamily Felinae; genus Acinonyx"
+tags:
+  - species
+  - felidae
+---
 # Cheetah
 
 > **The ultimate velocity machine, accelerating across the open savanna like a firing piston**
+
+![Cheetah](../04_Visual_Production/Hero_Posters/10_cheetah.png)
 
 ## 1. Core Identity
 

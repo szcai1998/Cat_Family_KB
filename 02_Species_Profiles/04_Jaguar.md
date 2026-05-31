@@ -1,6 +1,20 @@
+---
+scientific_name: "Panthera onca"
+biome: "Tropical rainforests, wetlands and dry forests"
+iucn_status: "Near Threatened."
+taxonomic_group: "Subfamily Pantherinae; genus Panthera"
+aliases:
+  - "El tigre (in Spanish)"
+  - "painted onça (in Portuguese)"
+tags:
+  - species
+  - felidae
+---
 # Jaguar
 
 > **Lord of the flooded rainforest, wielding an armor-shattering bite that conquers land and water**
+
+![Jaguar](../04_Visual_Production/Hero_Posters/04_jaguar.png)
 
 ## 1. Core Identity
 

@@ -1,6 +1,21 @@
+---
+scientific_name: "Lynx rufus"
+biome: "Generalist across biomes — forest, shrubland, grassland, wetland, desert, and urban edge"
+iucn_status: "Least Concern (LC) globally — abundant and widespread with a stable to growing total population"
+taxonomic_group: "Family Felidae → Subfamily Felinae → Genus Lynx"
+aliases:
+  - "Red Lynx"
+  - "Bay Lynx"
+  - "Wildcat (colloquial in parts of the American South)"
+tags:
+  - species
+  - felidae
+---
 # Bobcat
 
 > North America's ultimate wildcat survivor — the adaptable, bob-tailed phantom that hunts in the desert at noon and stalks suburban backyards at midnight with equal ease.
+
+![Bobcat](../04_Visual_Production/Hero_Posters/21_bobcat.png)
 
 ## 1. Core Identity
 

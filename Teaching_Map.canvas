@@ -1,0 +1,123 @@
+{
+  "nodes": [
+    {
+      "id": "node-title",
+      "type": "text",
+      "text": "# \ud83d\udc3e Cat Family Evolutionary Tree\nThis interactive canvas maps the major evolutionary lineages of the Felidae. Pan around to explore!",
+      "x": 0,
+      "y": 0,
+      "width": 500,
+      "height": 120
+    },
+    {
+      "id": "node-panthera",
+      "type": "text",
+      "text": "## Panthera Lineage\nThe big cats, known for their ability to roar (mostly). Evolved in Central Asia.",
+      "x": -400,
+      "y": 250,
+      "width": 350,
+      "height": 100
+    },
+    {
+      "id": "file-tiger",
+      "type": "file",
+      "file": "04_Visual_Production/Hero_Posters/01_siberian_tiger_amur_tiger.png",
+      "x": -600,
+      "y": 450,
+      "width": 350,
+      "height": 500
+    },
+    {
+      "id": "file-lion",
+      "type": "file",
+      "file": "04_Visual_Production/Hero_Posters/03_african_lion.png",
+      "x": -200,
+      "y": 450,
+      "width": 350,
+      "height": 500
+    },
+    {
+      "id": "node-lynx",
+      "type": "text",
+      "text": "## Lynx Lineage\nMedium-sized, short-tailed cats with tufted ears adapted for colder climates.",
+      "x": 400,
+      "y": 250,
+      "width": 350,
+      "height": 100
+    },
+    {
+      "id": "file-lynx",
+      "type": "file",
+      "file": "04_Visual_Production/Hero_Posters/08_eurasian_lynx_general.png",
+      "x": 200,
+      "y": 450,
+      "width": 350,
+      "height": 500
+    },
+    {
+      "id": "file-bobcat",
+      "type": "file",
+      "file": "04_Visual_Production/Hero_Posters/21_bobcat.png",
+      "x": 600,
+      "y": 450,
+      "width": 350,
+      "height": 500
+    }
+  ],
+  "edges": [
+    {
+      "id": "edge1",
+      "fromNode": "node-title",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "node-panthera",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge2",
+      "fromNode": "node-title",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "node-lynx",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge3",
+      "fromNode": "node-panthera",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "file-tiger",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge4",
+      "fromNode": "node-panthera",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "file-lion",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge5",
+      "fromNode": "node-lynx",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "file-lynx",
+      "toSide": "top",
+      "toEnd": "arrow"
+    },
+    {
+      "id": "edge6",
+      "fromNode": "node-lynx",
+      "fromSide": "bottom",
+      "fromEnd": "none",
+      "toNode": "file-bobcat",
+      "toSide": "top",
+      "toEnd": "arrow"
+    }
+  ]
+}

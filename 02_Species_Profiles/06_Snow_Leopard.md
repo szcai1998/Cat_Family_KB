@@ -1,6 +1,19 @@
+---
+scientific_name: "Panthera uncia"
+biome: "Alpine and subalpine mountains of Central Asia"
+iucn_status: "Vulnerable."
+taxonomic_group: "Subfamily Pantherinae; genus Panthera"
+aliases:
+  - "Ounce"
+tags:
+  - species
+  - felidae
+---
 # Snow Leopard
 
 > **The grey ghost of the Himalayas, dancing across vertical cliffs in the thin air of the roof of the world**
+
+![Snow Leopard](../04_Visual_Production/Hero_Posters/06_snow_leopard.png)
 
 ## 1. Core Identity
 

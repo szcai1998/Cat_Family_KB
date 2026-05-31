@@ -1,6 +1,19 @@
+---
+scientific_name: "Panthera leo"
+biome: "Grasslands, savannas and open woodlands"
+iucn_status: "Vulnerable."
+taxonomic_group: "Subfamily Pantherinae; genus Panthera"
+aliases:
+  - "Lion"
+tags:
+  - species
+  - felidae
+---
 # African Lion
 
 > **The thunder of the plains, ruling the dry grasslands in coordinated family empires**
+
+![African Lion](../04_Visual_Production/Hero_Posters/03_african_lion.png)
 
 ## 1. Core Identity
 

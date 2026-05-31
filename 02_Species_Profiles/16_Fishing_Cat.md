@@ -1,6 +1,21 @@
+---
+scientific_name: "Prionailurus viverrinus"
+biome: "Tropical and subtropical wetlands — mangroves, reed beds, tidal creeks, oxbow lakes, and marshes"
+iucn_status: "Vulnerable (VU) — assessed 2016, under review"
+taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Prionailurus"
+aliases:
+  - "Bagh-mach (Bengali"
+  - "meaning \"tiger-fish\")"
+  - "Handun Diviya (Sinhala)"
+tags:
+  - species
+  - felidae
+---
 # Fishing Cat
 
 > The river ghost — a stocky, fearless wetland predator that plunges headfirst into murky water while other cats politely avoid puddles.
+
+![Fishing Cat](../04_Visual_Production/Hero_Posters/16_fishing_cat.png)
 
 ## 1. Core Identity
 

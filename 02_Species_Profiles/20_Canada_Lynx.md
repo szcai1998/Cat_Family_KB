@@ -1,6 +1,20 @@
+---
+scientific_name: "Lynx canadensis"
+biome: "Boreal forest (taiga — the vast northern conifer forest belt stretching across Canada, Alaska, and parts of the northern United States)"
+iucn_status: "Least Concern (LC) globally — stable and relatively abundant across Canada and Alaska"
+taxonomic_group: "Family Felidae → Subfamily Felinae → Genus Lynx"
+aliases:
+  - "Canadian Lynx"
+  - "North American Lynx"
+tags:
+  - species
+  - felidae
+---
 # Canada Lynx
 
 > The boreal ghost — a long-legged, silver-furred cat that runs on top of snow that would swallow any other predator, locked in one of nature's most dramatic boom-and-bust dances with its only true prey.
+
+![Canada Lynx](../04_Visual_Production/Hero_Posters/20_canada_lynx.png)
 
 ## 1. Core Identity
 

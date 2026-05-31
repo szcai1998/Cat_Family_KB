@@ -1,6 +1,21 @@
+---
+scientific_name: "Felis nigripes"
+biome: "Arid and semi-arid short-grass plains, karoo scrubland, and open savanna of southern Africa"
+iucn_status: "Vulnerable (VU) — assessed 2019"
+taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Felis"
+aliases:
+  - "Small-spotted Cat"
+  - "Miershooptier (Afrikaans"
+  - "meaning \"anthill tiger\")"
+tags:
+  - species
+  - felidae
+---
 # Black-footed Cat
 
 > Africa's deadliest cat fits in your lap — and hunts with a ferocity that shames animals ten times its size.
+
+![Black-footed Cat](../04_Visual_Production/Hero_Posters/17_black_footed_cat.png)
 
 ## 1. Core Identity
 

@@ -1,6 +1,21 @@
+---
+scientific_name: "Panthera tigris altaica (traditional); modern classification: P. tigris tigris"
+biome: "Boreal and temperate forests (taiga)"
+iucn_status: "Endangered (as part of the mainland tiger subspecies)."
+taxonomic_group: "Subfamily Pantherinae; genus Panthera"
+aliases:
+  - "Amur tiger"
+  - "Ussuri tiger"
+tags:
+  - species
+  - felidae
+  - endangered
+---
 # Siberian Tiger / Amur Tiger
 
 > **Ghost of the frozen north, ruling the snow-draped forests of the Far East**
+
+![Siberian Tiger / Amur Tiger](../04_Visual_Production/Hero_Posters/01_siberian_tiger_amur_tiger.png)
 
 ## 1. Core Identity
 
