@@ -4,23 +4,23 @@ Wild cats face a host of threats that vary by region and species. Understanding 
 
 ## Habitat loss and fragmentation
 
-Deforestation for agriculture, logging and infrastructure reduces available habitat and isolates populations. Tigers and leopards have lost much of their historic range to human expansion【960819529586131†L75-L104】【63005965708133†L25-L72】. Fragmented landscapes prevent animals from dispersing, leading to inbreeding and increased conflict with humans.
+Deforestation for agriculture, logging and infrastructure reduces available habitat and isolates populations. Tigers and leopards have lost much of their historic range to human expansion. Fragmented landscapes prevent animals from dispersing, leading to inbreeding and increased conflict with humans.
 
 ## Prey depletion
 
-Overhunting of prey species and competition with livestock reduce food availability. Snow leopards suffer when wild ungulates decline【596547831032212†L248-L286】, and lions struggle where herbivore populations are overharvested【831700127756655†L94-L140】.
+Overhunting of prey species and competition with livestock reduce food availability. Snow leopards suffer when wild ungulates decline, and lions struggle where herbivore populations are overharvested.
 
 ## Human–wildlife conflict
 
-Cats that prey on livestock are often killed in retaliation. Pumas, lions and snow leopards commonly come into conflict with pastoralists【671062261146697†L245-L265】【596547831032212†L248-L286】. Improving livestock husbandry, compensation schemes and community outreach can reduce conflict.
+Cats that prey on livestock are often killed in retaliation. Pumas, lions and snow leopards commonly come into conflict with pastoralists. Improving livestock husbandry, compensation schemes and community outreach can reduce conflict.
 
 ## Poaching and illegal trade
 
-Illegal hunting for skins, bones and other body parts threatens many species. Tigers are poached for traditional medicine; leopards and clouded leopards are targeted for their pelts【960819529586131†L75-L104】【63005965708133†L69-L92】. Jaguars and ocelots have historically been hunted for fur【174786318036718†L100-L132】.
+Illegal hunting for skins, bones and other body parts threatens many species. Tigers are poached for traditional medicine; leopards and clouded leopards are targeted for their pelts. Jaguars and ocelots have historically been hunted for fur.
 
 ## Persecution and hunting
 
-Historically, big predators were seen as vermin and killed to protect livestock and game. Pumas were nearly eradicated in parts of North America【380882063012250†L104-L165】. Caracals and servals are sometimes shot as poultry thieves【514282553040283†L176-L183】.
+Historically, big predators were seen as vermin and killed to protect livestock and game. Pumas were nearly eradicated in parts of North America. Caracals and servals are sometimes shot as poultry thieves.
 
 ## Climate change
 

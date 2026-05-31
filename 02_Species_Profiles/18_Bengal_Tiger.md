@@ -11,6 +11,7 @@ tags:
   - felidae
   - endangered
 ---
+
 # Bengal Tiger
 
 > The striped sovereign of South Asia — a 200-kilogram ambush predator that swims tidal rivers, commands miles of jungle, and carries the weight of an entire continent's wild heritage on its shoulders.

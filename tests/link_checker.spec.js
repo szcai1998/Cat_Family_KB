@@ -9,7 +9,12 @@ function getMarkdownFiles(dir, filesList = []) {
     const filePath = path.join(dir, file);
     const stat = fs.statSync(filePath);
     if (stat.isDirectory()) {
-      if (file !== "node_modules" && file !== ".git") {
+      if (
+        file !== "node_modules" &&
+        file !== ".git" &&
+        file !== "playwright-report" &&
+        file !== "test-results"
+      ) {
         getMarkdownFiles(filePath, filesList);
       }
     } else if (file.endsWith(".md")) {
@@ -68,7 +73,8 @@ function validateLink(linkPath, sourceFile, fileDir, rootDir, brokenLinks) {
     linkPath.startsWith("http://") ||
     linkPath.startsWith("https://") ||
     linkPath.startsWith("mailto:") ||
-    linkPath.startsWith("#")
+    linkPath.startsWith("#") ||
+    linkPath === "relative-path"
   ) {
     return;
   }

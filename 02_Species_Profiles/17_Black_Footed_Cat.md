@@ -6,11 +6,12 @@ taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Felis"
 aliases:
   - "Small-spotted Cat"
   - "Miershooptier (Afrikaans"
-  - "meaning \"anthill tiger\")"
+  - 'meaning "anthill tiger")'
 tags:
   - species
   - felidae
 ---
+
 # Black-footed Cat
 
 > Africa's deadliest cat fits in your lap — and hunts with a ferocity that shames animals ten times its size.

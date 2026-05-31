@@ -10,6 +10,7 @@ tags:
   - species
   - felidae
 ---
+
 # Siberian Forest Cat
 
 > **A rugged Russian treasure, wrapped in a plush triple coat designed to brave the sub-zero taiga**
@@ -98,16 +99,20 @@ To survive the sub-zero winters of its homeland, the Siberian forest cat evolved
 This section showcases the native Antigravity AI generations for the Visual MVP, establishing the baseline visual prompts for the rest of the Atlas.
 
 ### 🪪 Preview Card
-![Preview Card](../04_Visual_Production/MVP_Siberian_Cat/preview_card.png)
+
+![Preview Card](../04_Visual_Production/Preview_Cards/02_siberian_forest_cat.png)
 
 ### 🧬 Anatomy Traits
-![Anatomy Diagram](../04_Visual_Production/MVP_Siberian_Cat/anatomy.png)
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/02_siberian_forest_cat.png)
 
 ### ❄️ Hunting Scene
-![Hunting Action](../04_Visual_Production/MVP_Siberian_Cat/hunting.png)
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/02_siberian_forest_cat.png)
 
 ### 🗺️ Range Map
-![Geographic Map](../04_Visual_Production/MVP_Siberian_Cat/range_map.png)
+
+![Geographic Map](../04_Visual_Production/Range_Maps/02_siberian_forest_cat.png)
 
 ## 12. Internal Links
 

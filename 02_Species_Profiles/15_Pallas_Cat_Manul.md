@@ -9,6 +9,7 @@ tags:
   - species
   - felidae
 ---
+
 # Pallas’s Cat / Manul
 
 > **The ultimate round-bodied master of the frozen steppes, turning flat ears and a grumpy face into a survival masterpiece**

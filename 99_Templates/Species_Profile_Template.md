@@ -1,6 +1,6 @@
 # Species Profile Template
 
-Use this template as a starting point for creating new species profiles. Replace the placeholders (in curly braces) with species‑specific information and remove any unused sections. Always cite reputable sources for factual statements using the citation format described in the atlas (e.g.【123456789†L10-L20】).
+Use this template as a starting point for creating new species profiles. Replace the placeholders (in curly braces) with species‑specific information and remove any unused sections. Always cite reputable sources for factual statements using the citation format described in the atlas (e.g.).
 
 ```
 # {Common Name}

@@ -10,6 +10,7 @@ tags:
   - species
   - felidae
 ---
+
 # Jaguar
 
 > **Lord of the flooded rainforest, wielding an armor-shattering bite that conquers land and water**
@@ -93,7 +94,27 @@ What truly sets the jaguar apart is its jaw-dropping physical power. It possesse
 - **Conservation panel:** Graphic illustrating the Jaguar Corridor Initiative and its cross-border wildlife pathways.
 - **AI prompt (Midjourney/DALL-E style):** _A powerful, muscular jaguar wading stealthily through shallow emerald river water in the Amazon rainforest, dappled golden sunlight filtering through the dense canopy above and hitting its beautiful spotted rosettes. Water ripples around its chest, intense golden eyes locked on the camera, photorealistic, cinematic lighting, ultra-sharp detail._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/04_jaguar.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/04_jaguar.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/04_jaguar.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/04_jaguar.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Apex_Predators.md|Apex Predators]]

@@ -79,7 +79,7 @@ The Cat Family Atlas is a comprehensive, museum-style, modular knowledge base co
 - Never use generic or ad-hoc templates; always follow the formats in `99_Templates`.
 - Never use inline CSS/styles inside markdown files.
 - Never commit broken relative links or absolute file paths.
-- Never use cryptic tether citation codes (e.g. `【362655593780840†L60-L114】`) — these are unreadable and should be removed or replaced with plain inline attribution when editing.
+- Never use cryptic tether citation codes (e.g. ``) — these are unreadable and should be removed or replaced with plain inline attribution when editing.
 - Never open a Museum Summary with a list of dry dimensions and weights — always lead with a narrative hook.
 
 ## Always Do (Mandatory Practices)

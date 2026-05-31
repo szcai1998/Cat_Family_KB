@@ -11,6 +11,7 @@ tags:
   - species
   - felidae
 ---
+
 # Bobcat
 
 > North America's ultimate wildcat survivor — the adaptable, bob-tailed phantom that hunts in the desert at noon and stalks suburban backyards at midnight with equal ease.

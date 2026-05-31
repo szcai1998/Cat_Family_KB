@@ -7,12 +7,12 @@ Below is a dynamic, sortable table of all cats currently in the atlas, automatic
 
 ```dataviewjs
 dv.table(
-    ["Species Profile", "Scientific Name", "Biome", "Conservation Status"], 
+    ["Species Profile", "Scientific Name", "Biome", "Conservation Status"],
     dv.pages("#species")
       .sort(p => p.file.name)
       .map(p => [
-          p.file.link, 
-          p.scientific_name, 
+          p.file.link,
+          p.scientific_name,
           p.biome,
           p.iucn_status
       ])
@@ -22,4 +22,4 @@ dv.table(
 ## 🖼️ Visual Exhibits
 
 - **[Interactive Teaching Canvas](../Teaching_Map.canvas)** - Explore the evolutionary tree of the Felidae on an infinite whiteboard.
-- **[[../04_Visual_Production/README|Visual Production Studio]]** - View high-resolution posters and artwork.
+- **[[../04_Visual_Production/README.md|Visual Production Studio]]** - View high-resolution posters and artwork.

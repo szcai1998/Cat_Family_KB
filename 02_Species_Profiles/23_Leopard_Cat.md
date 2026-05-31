@@ -10,6 +10,7 @@ tags:
   - felidae
   - endangered
 ---
+
 # Leopard Cat
 
 > Asia's spotted ghost — the small, ancient forest cat whose bloodline runs through every domestic Bengal breed alive today.

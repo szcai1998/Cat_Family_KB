@@ -10,6 +10,7 @@ tags:
   - species
   - felidae
 ---
+
 # Canada Lynx
 
 > The boreal ghost — a long-legged, silver-furred cat that runs on top of snow that would swallow any other predator, locked in one of nature's most dramatic boom-and-bust dances with its only true prey.

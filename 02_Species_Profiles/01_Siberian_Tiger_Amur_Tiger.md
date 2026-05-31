@@ -11,6 +11,7 @@ tags:
   - felidae
   - endangered
 ---
+
 # Siberian Tiger / Amur Tiger
 
 > **Ghost of the frozen north, ruling the snow-draped forests of the Far East**
@@ -94,7 +95,27 @@ Rather than relying on short bursts of speed, the Siberian tiger uses the thick 
 - **Conservation panel:** Infographic showing population recovery trends and anti-poaching success.
 - **AI prompt (Midjourney/DALL-E style):** _A massive Siberian tiger stepping majestically through deep white snow in a frozen birch forest, breath condensing in the icy air, pale orange fur and thick winter coat dusted with frost, golden-hour morning sunlight filtering through the trees. Photorealistic wildlife photography, 85mm lens, shallow depth of field, ultra-sharp detail on the tiger's intense golden eyes._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/01_siberian_tiger_amur_tiger.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/01_siberian_tiger_amur_tiger.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/01_siberian_tiger_amur_tiger.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/01_siberian_tiger_amur_tiger.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae]]

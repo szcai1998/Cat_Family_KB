@@ -9,6 +9,7 @@ tags:
   - species
   - felidae
 ---
+
 # Snow Leopard
 
 > **The grey ghost of the Himalayas, dancing across vertical cliffs in the thin air of the roof of the world**

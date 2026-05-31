@@ -30,6 +30,6 @@ Felidae
         └── Siberian forest cat (*Felis catus*)
 ```
 
-This tree reflects the current consensus that the cheetah, puma and other “big but not roaring” cats belong to _Felinae_【943641874497049†L60-L67】. Additional felid genera such as _Prionailurus_, _Caracal_ (African golden cat), _Leopardus_ (several spotted cats) and _Lynx_ (bobcats and Canadian lynx) are not shown but follow similar branching patterns.
+This tree reflects the current consensus that the cheetah, puma and other “big but not roaring” cats belong to _Felinae_. Additional felid genera such as _Prionailurus_, _Caracal_ (African golden cat), _Leopardus_ (several spotted cats) and _Lynx_ (bobcats and Canadian lynx) are not shown but follow similar branching patterns.
 
 For more discussion on the distinction between big and small cats see **[[Pantherinae_vs_Felinae.md]]**.

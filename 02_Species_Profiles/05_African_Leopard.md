@@ -9,6 +9,7 @@ tags:
   - species
   - felidae
 ---
+
 # African Leopard
 
 > **The shadow in the canopy, hoisting heavy prey into the branches with unmatched athletic power**
@@ -92,7 +93,27 @@ With an incredibly muscular neck and shoulders, the leopard performs jaw-droppin
 - **Conservation panel:** Infographic illustrating non-lethal livestock protection methods.
 - **AI prompt (Midjourney/DALL-E style):** _A sleek African leopard draped gracefully over a thick horizontal branch of an acacia tree at sunset, one front paw hanging down, warm orange sunlight catching the details of its golden rosetted fur. Dappled light filtering through the leaves, background savanna in soft focus, photorealistic, cinematic composition, high-detail telephoto shot._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/05_african_leopard.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/05_african_leopard.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/05_african_leopard.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/05_african_leopard.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Arboreal_Cats.md|Arboreal Cats]]

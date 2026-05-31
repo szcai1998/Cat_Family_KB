@@ -5,12 +5,13 @@ iucn_status: "Vulnerable (VU) — assessed 2016, under review"
 taxonomic_group: "Family Felidae, Subfamily Felinae, Genus Prionailurus"
 aliases:
   - "Bagh-mach (Bengali"
-  - "meaning \"tiger-fish\")"
+  - 'meaning "tiger-fish")'
   - "Handun Diviya (Sinhala)"
 tags:
   - species
   - felidae
 ---
+
 # Fishing Cat
 
 > The river ghost — a stocky, fearless wetland predator that plunges headfirst into murky water while other cats politely avoid puddles.

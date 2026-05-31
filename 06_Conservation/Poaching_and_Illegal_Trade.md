@@ -4,10 +4,10 @@ The illegal trade in wildlife products is a major driver of population declines 
 
 ## Targeted species and products
 
-- **Tigers:** Bones and other body parts are used in some forms of traditional medicine, while pelts fetch high prices on the black market【960819529586131†L75-L104】.
-- **Leopards and clouded leopards:** Hunted for their beautiful spotted pelts which are used in ceremonial dress and luxury goods【63005965708133†L69-L92】.
-- **Jaguars:** Poached for fangs and skin, particularly in South America【174786318036718†L100-L132】.
-- **Ocelots:** Historically exploited for fur coats; populations crashed before trade was restricted【655136759873302†L94-L115】.
+- **Tigers:** Bones and other body parts are used in some forms of traditional medicine, while pelts fetch high prices on the black market.
+- **Leopards and clouded leopards:** Hunted for their beautiful spotted pelts which are used in ceremonial dress and luxury goods.
+- **Jaguars:** Poached for fangs and skin, particularly in South America.
+- **Ocelots:** Historically exploited for fur coats; populations crashed before trade was restricted.
 
 ## Drivers of illegal trade
 

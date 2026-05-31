@@ -4,7 +4,7 @@ Most cats are solitary predators, but a few species exhibit social behaviour. So
 
 ## Social species
 
-- **African lion** – lions are unique among cats for living in **prides** comprising related females, their cubs and a coalition of males who defend the territory【831700127756655†L15-L90】【831700127756655†L94-L140】. Females hunt cooperatively and care for each other's young, while males patrol boundaries and deter rivals.【816664480957507†L190-L256】.
+- **African lion** – lions are unique among cats for living in **prides** comprising related females, their cubs and a coalition of males who defend the territory. Females hunt cooperatively and care for each other's young, while males patrol boundaries and deter rivals..
 
 - **Cheetah** – females are solitary, but adult brothers often form **coalitions** of two or three that remain together for life and cooperate to defend territories. This social behaviour increases hunting success and mating opportunities (not cited due to limited sources; general behavioural observation).
 
@@ -12,7 +12,7 @@ Most cats are solitary predators, but a few species exhibit social behaviour. So
 
 The following cats primarily live and hunt alone, except during breeding and when females raise young:
 
-- **Tiger**, **jaguar**, **leopard**, **snow leopard**, **puma**, **lynx**, **clouded leopard**, **caracal**, **serval**, **ocelot**, **Pallas’s cat** – all maintain territories that they mark and defend against same‑sex conspecifics. Males’ territories often overlap with those of several females, but adults rarely associate outside the mating season【671062261146697†L312-L318】【843266011844487†L78-L93】.
+- **Tiger**, **jaguar**, **leopard**, **snow leopard**, **puma**, **lynx**, **clouded leopard**, **caracal**, **serval**, **ocelot**, **Pallas’s cat** – all maintain territories that they mark and defend against same‑sex conspecifics. Males’ territories often overlap with those of several females, but adults rarely associate outside the mating season.
 
 ## Domestic comparisons
 
