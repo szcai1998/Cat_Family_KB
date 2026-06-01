@@ -96,7 +96,27 @@ The Eurasian lynx is a masterpiece of winter engineering. It features exceptiona
 - **Conservation panel:** Infographic showing how wildlife corridors over highways help lynx disperse to new territories safely.
 - **AI prompt (Midjourney/DALL-E style):** _A large Eurasian lynx standing alert on a massive fallen log in a snowy pine forest, thick winter fur dusted with frost, long black ear tufts fully erect, massive paws planted firmly on the bark. Golden morning sun filtering through the snowy branches, photorealistic, cinematic lighting, ultra-sharp detail._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/08_eurasian_lynx.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/08_eurasian_lynx.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/08_eurasian_lynx.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/08_eurasian_lynx.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Mountain_Cats.md|Mountain Cats]]

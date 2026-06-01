@@ -93,7 +93,27 @@ To look into the mouth of a clouded leopard is to step back in time. It possesse
 - **Conservation panel:** Infographic showing the rate of palm oil expansion and its direct impact on forest corridors.
 - **AI prompt (Midjourney/DALL-E style):** _A stunning clouded leopard creeping headfirst down a mossy, fern-covered tree trunk in a tropical rainforest, mist in the background, soft morning light catching the cloud-like patterns on its fur. Extremely long tail arched for balance, green forest canopy, photorealistic, cinematic composition, high-detail texture._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/07_clouded_leopard.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/07_clouded_leopard.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/07_clouded_leopard.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/07_clouded_leopard.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Arboreal_Cats.md|Arboreal Cats]]

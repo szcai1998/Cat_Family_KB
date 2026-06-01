@@ -95,7 +95,27 @@ The ocelot's coat is a breathtaking work of natural art, patterned with bold, da
 - **Conservation panel:** Infographic detailing the construction of highway underpasses and thorn scrub restoration in Texas.
 - **AI prompt (Midjourney/DALL-E style):** _A stunning ocelot perched on a mossy branch in a tropical rainforest at night, soft moonlight filtering through the dense green canopy and casting dappled shadows on its beautiful spotted coat. Intense dark eyes looking forward, lush ferns in the background, photorealistic, cinematic composition, ultra-sharp detail._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/14_ocelot.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/14_ocelot.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/14_ocelot.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/14_ocelot.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Arboreal_Cats.md|Arboreal Cats]]

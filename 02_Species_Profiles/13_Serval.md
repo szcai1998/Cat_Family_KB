@@ -96,7 +96,27 @@ Servals roam wet savannas and _riparian_ (riverbank and lakeside) grasslands thr
 - **Conservation panel:** Graphic illustrating wetland habitat loss over time and the critically small North African subspecies range.
 - **AI prompt (Midjourney/DALL-E style):** _A serval cat suspended mid-air above a moonlit African reed bed, both front paws extended downward, huge oval ears flat against its skull, spotted golden coat catching silver moonlight. Long grass blurs below, stars visible through a break in the clouds, motion-blur on the grass tips from the leap, photorealistic wildlife photography, high-speed shutter freeze, dramatic low-angle perspective._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/13_serval.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/13_serval.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/13_serval.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/13_serval.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Wetland_and_Grassland_Cats.md|Wetland and Grassland Cats]]

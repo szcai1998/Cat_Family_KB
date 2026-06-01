@@ -95,7 +95,27 @@ Caracals patrol a sweeping empire that stretches from the savannas and semi-dese
 - **Conservation panel:** Infographic on human–caracal conflict zones and mitigation success stories.
 - **AI prompt (Midjourney/DALL-E style):** _A sleek tawny caracal exploding upward from dry African savanna scrub, black ear tufts fully erect, body twisted mid-leap, claws extended toward a blur of guineafowl wings. Golden-hour backlight, dramatic shadow on red laterite soil, photorealistic wildlife photography style, 85mm telephoto compression, ultra-sharp fur detail._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/12_caracal.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/12_caracal.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/12_caracal.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/12_caracal.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Desert_and_Dryland_Cats.md|Desert and Dryland Cats]]
