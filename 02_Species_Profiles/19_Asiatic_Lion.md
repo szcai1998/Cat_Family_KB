@@ -97,7 +97,27 @@ What the Asiatic Lion demonstrates, above all else, is the extraordinary power o
 - **AI prompt (Midjourney/DALL-E style):** "A male Asiatic Lion with a sparse, dark mane standing at the edge of a dry deciduous forest in Gir, India, at golden hour, rocky terrain in the foreground, dry teak trees catching amber evening light, the lion gazing into middle distance, dust particles suspended in the air, cinematic wildlife photography, National Geographic editorial quality, 16:9"
 - **Conservation panel:** Timeline infographic showing Asiatic Lion population from 1900 (fewer than 20 individuals) to 2023 (over 700), with key milestones (Gir declared sanctuary, Project Lion launch), overlaid on a shrinking range map to show how recovery has been geographically confined
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/19_asiatic_lion.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/19_asiatic_lion.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/19_asiatic_lion.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/19_asiatic_lion.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]

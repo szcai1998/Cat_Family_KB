@@ -95,7 +95,27 @@ In the United States, the Canada Lynx clings to existence in a handful of isolat
 - **AI prompt (Midjourney/DALL-E style):** "A Canada Lynx with enormous furry paws standing in deep powder snow in a dense boreal spruce forest in winter, its silver-grey fur contrasting against the white snow, prominent black ear tufts, wide facial ruff, pale yellow-green eyes, soft diffuse winter light filtering through snow-laden branches, wildlife photography style, Nat Geo quality, 16:9 aspect ratio"
 - **Conservation panel:** Side-by-side comparison of Canada Lynx and Bobcat range maps showing northward range shift of the bobcat as a warming indicator; inset graph showing 90-year snowshoe hare and lynx population cycle data; icons showing key threats including logging, climate (snowpack loss), and road fragmentation
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/20_canada_lynx.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/20_canada_lynx.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/20_canada_lynx.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/20_canada_lynx.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]

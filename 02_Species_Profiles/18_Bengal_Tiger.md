@@ -96,7 +96,27 @@ What makes the Bengal Tiger biologically extraordinary is its versatility. Most 
 - **AI prompt (Midjourney/DALL-E style):** "A Royal Bengal Tiger swimming powerfully across a wide tidal river at golden hour in the Sundarbans mangrove forest, water rippling around its chest, amber eyes focused ahead, lush green mangrove roots visible on both banks, cinematic wildlife photography style, soft rim lighting, Nat Geo editorial quality, 16:9 aspect ratio"
 - **Conservation panel:** Split-panel infographic: left side shows historical range (pre-1900 across all of Asia, shown in faded orange) versus current fragmented range (shown in vivid saffron); right side shows Project Tiger reserve network and corridor system with cub silhouettes illustrating population milestones
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/18_bengal_tiger.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/18_bengal_tiger.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/18_bengal_tiger.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/18_bengal_tiger.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]

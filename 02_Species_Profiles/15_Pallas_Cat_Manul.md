@@ -93,7 +93,27 @@ To thrive in a land of extreme temperatures and minimal cover, the manul evolved
 - **Conservation panel:** Infographic showing the food web link between pikas, rodenticides, and manul population health.
 - **AI prompt (Midjourney/DALL-E style):** _A round, exceptionally fluffy Pallas's cat crouching on a frosty, rocky outcrop in the Mongolian steppe at dawn, its long fur dusted with frost, flat-set ears, grumpy face, intense round yellow eyes staring directly at the camera. Soft golden dawn light, vast barren grassland in the background, photorealistic, cinematic wildlife portrait._
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/15_pallas_cat_manul.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/15_pallas_cat_manul.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/15_pallas_cat_manul.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/15_pallas_cat_manul.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae]]
 - [[../05_Ecology_Comparisons/Mountain_Cats.md|Mountain Cats]]

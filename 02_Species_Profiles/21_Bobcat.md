@@ -96,7 +96,27 @@ What earns the Bobcat its museum standing is not rarity but mastery — the mast
 - **AI prompt (Midjourney/DALL-E style):** "A Bobcat standing on a rocky granite ledge in a California chaparral hillside at golden hour, spotted tawny-rufous coat, distinctive short bobbed tail raised slightly, alert amber eyes, tufted cheek ruffs, dry California oak brush in background with warm evening light raking across the scene, wildlife documentary photography style, Nat Geo editorial quality, 16:9"
 - **Conservation panel:** Urban wildlife infographic showing a Bobcat home range overlaid on a suburban map — illustrating how the cat navigates parks, golf courses, drainage channels, and road crossings; inset showing rodenticide bioaccumulation chain from rat to Bobcat; call-to-action panel for rodenticide alternatives
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/21_bobcat.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/21_bobcat.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/21_bobcat.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/21_bobcat.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]

@@ -96,7 +96,27 @@ Found across South and Southeast Asia — from Pakistan's Indus Valley wetlands 
 - **AI prompt (Midjourney/DALL-E style):** _"A Fishing Cat (Prionailurus viverrinus) crouching on a mossy mangrove root at night, tapping the dark water surface with one webbed paw, a large silver fish visibly rising below the surface, moonlight reflecting off the disturbed water, smoky olive-grey spotted fur glistening with moisture, hyper-realistic wildlife photography style, Canon EF 500mm lens, f/4, ISO 3200, dramatic chiaroscuro lighting, rich teal and charcoal color palette, Sundarbans mangrove backdrop"_
 - **Conservation panel:** Split-panel design — left: thriving mangrove creek habitat with the cat hunting; right: the same creek drained and converted to a shrimp farm. Text overlay: _"When wetlands disappear, so do their guardians."_ Muted desaturated palette on the degraded side.
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/16_fishing_cat.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/16_fishing_cat.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/16_fishing_cat.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/16_fishing_cat.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]

@@ -85,7 +85,7 @@ The Eurasian lynx is a masterpiece of winter engineering. It features exceptiona
 
 ## 10. Visual Production Notes
 
-- **Hero exhibit poster:** [View Exhibit Poster](../04_Visual_Production/Hero_Posters/09_eurasian_lynx_hero_exhibit.png)
+- **Hero exhibit poster:** [View Exhibit Poster](../04_Visual_Production/Hero_Posters/08_eurasian_lynx_general.png)
 
 - **Hero poster concept:** A Eurasian lynx standing alert on a massive mossy fallen tree trunk in a snowy pine forest, its black ear tufts silhouetted against the winter sun.
 - **Preview card concept:** Close-up of the lynx's face, spotlighting the flared ruff, ear tufts, and intense amber eyes; icons for snowshoe paws and weight.

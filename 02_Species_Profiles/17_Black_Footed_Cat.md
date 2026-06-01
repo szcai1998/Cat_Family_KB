@@ -96,7 +96,27 @@ The species takes its name from the distinctive black-soled paws and black under
 - **AI prompt (Midjourney/DALL-E style):** _"A Black-footed Cat (Felis nigripes) mid-pounce in the South African Karoo at night, leaping over sparse dry grass toward a small mouse, enormous round ears forward, large amber eyes wide open reflecting moonlight, warm tawny-spotted fur, black-soled paws visible mid-leap, dramatic low-angle perspective, photorealistic wildlife photography style, Nikon D6, 600mm lens, natural starlight and low moon, ochre and midnight blue colour palette, National Geographic quality"_
 - **Conservation panel:** Diptych design — left panel: thriving short-grass Karoo landscape at dusk with the cat in the foreground hunting; right panel: the same landscape overgrazed to bare soil, a poison bait station visible in the middle distance. Text: _"The world's deadliest cat hunts by night — and faces threats it cannot see."_ Desaturated palette on the degraded panel.
 
-## 11. Internal Links
+## 11. Visual Production Exhibits
+
+This section showcases the native Antigravity AI generations for the Visual Production.
+
+### 🪪 Preview Card
+
+![Preview Card](../04_Visual_Production/Preview_Cards/17_black_footed_cat.png)
+
+### 🧬 Anatomy Traits
+
+![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/17_black_footed_cat.png)
+
+### 🎬 Hunting Scene
+
+![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/17_black_footed_cat.png)
+
+### 🗺️ Range Map
+
+![Geographic Map](../04_Visual_Production/Range_Maps/17_black_footed_cat.png)
+
+## 12. Internal Links
 
 - [[../01_Taxonomy_and_Evolution/Felidae_Overview.md|Felidae Overview]]
 - [[../01_Taxonomy_and_Evolution/Pantherinae_vs_Felinae.md|Pantherinae vs Felinae]]
