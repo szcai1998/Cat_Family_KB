@@ -1,5 +1,7 @@
 # Felidae Overview
 
+![Feline Skeletal Blueprint](../04_Visual_Production/Taxonomy_Diagrams/taxonomy_felidae_overview.png)
+
 The **Felidae** are a family of carnivorous mammals commonly known as cats. Felids are slender, flexible and muscular hypercarnivores adapted for stealthy hunting. They range in size from the tiny African black‑footed cat to the enormous tiger, yet share a recognisable body plan: large eyes for night vision, round and flat faces, sensitive whiskers, powerful jaws, retractable claws and a flexible spine. Felids walk on their toes (digitigrade stance) and their claws retract into protective sheaths when not in use. The exception is the cheetah, whose claws are only partially retractable to provide extra grip at high speed.
 
 ## Classification

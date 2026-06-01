@@ -1,5 +1,7 @@
 # Cat Lineages Overview
 
+![Felidae Evolutionary Tree](../04_Visual_Production/Taxonomy_Diagrams/taxonomy_lineages_tree.png)
+
 This page summarises the major evolutionary lineages within the cat family (_Felidae_). Modern taxonomic studies recognise two living subfamilies—**_Pantherinae_** (big cats) and **_Felinae_** (small and medium cats)—containing roughly 41 wild species. Within these subfamilies, genetic analyses reveal distinct lineages that reflect ancient radiations across different continents. Understanding these lineages helps place each exhibit species in a broader evolutionary context.
 
 ## The Panthera lineage

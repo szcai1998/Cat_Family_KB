@@ -1,5 +1,7 @@
 # *Pantherinae* vs *Felinae*
 
+![Size Comparison Pantherinae vs Felinae](../04_Visual_Production/Taxonomy_Diagrams/taxonomy_pantherinae_felinae.png)
+
 The family **Felidae** is divided into two extant subfamilies: **_Pantherinae_** and **_Felinae_**. Understanding this split helps explain why some cats can roar while others purr and why “big cat” is both an anatomical and cultural category.
 
 ## _Pantherinae_ – the big cats

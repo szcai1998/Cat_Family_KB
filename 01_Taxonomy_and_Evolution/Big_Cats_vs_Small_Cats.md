@@ -1,5 +1,7 @@
 # Big Cats vs Small Cats
 
+![Big vs Small Anatomy](../04_Visual_Production/Taxonomy_Diagrams/taxonomy_big_vs_small.png)
+
 People often talk about “big cats” and “small cats”, but the distinction is not just about size. In felid taxonomy the terms correspond loosely to the subfamilies **_Pantherinae_** and **_Felinae_**, yet popular usage can blur the boundaries. This page clarifies the differences.
 
 ## Size and body form

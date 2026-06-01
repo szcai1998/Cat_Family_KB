@@ -1,5 +1,7 @@
 # Taxonomy Notes and Caveats
 
+![Taxonomy DNA Graphic](../04_Visual_Production/Taxonomy_Diagrams/taxonomy_notes_dna.png)
+
 Taxonomy is a living science. Names, ranks and groupings change as new evidence from genetics, morphology and biogeography accumulates. This atlas follows the Cat Classification Task Force (2017) and other recent syntheses, but readers should be aware of several caveats:
 
 ## Subspecies revisions
