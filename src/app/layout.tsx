@@ -22,10 +22,10 @@ export default function RootLayout({
           <div className="nav-content">
             <a href="/" className="logo">Cat Family Atlas</a>
             <div className="links">
-              <a href="/">Museum Foyer</a>
+              <a href="/">Main</a>
               <a href="/taxonomy">Taxonomy</a>
               <a href="/species">The Cat Family</a>
-              <a href="/ecology-and-conservation">About us</a>
+              <a href="/ecology-and-conservation">Conservation Center</a>
             </div>
           </div>
         </nav>

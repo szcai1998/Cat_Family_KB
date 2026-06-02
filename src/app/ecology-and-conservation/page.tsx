@@ -6,9 +6,11 @@ export default function EcologyAndConservationPage() {
   
   return (
     <main>
-      <section className="hero" style={{ height: "auto", padding: "4rem 0" }}>
-        <h1>About Us</h1>
-        <p>Understand the ecological roles, habitats, and modern threats facing the world's wild cats.</p>
+      <section className="hero" style={{ height: "auto", padding: "4rem 0", textAlign: "center" }}>
+        <h1 style={{ fontSize: "3.5rem", marginBottom: "1rem", color: "var(--accent)" }}>Conservation Center</h1>
+        <p style={{ maxWidth: "800px", margin: "0 auto", fontSize: "1.2rem", color: "#cbd5e1" }}>
+          Welcome to the Conservation Center. Dive deep into the critical ecological roles felines play as apex predators across the globe. Explore comprehensive environmental comparisons and learn about the frontline initiatives dedicated to protecting these magnificent species from extinction.
+        </p>
       </section>
 
       <section className="museum-grid">
