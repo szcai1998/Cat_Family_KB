@@ -32,7 +32,7 @@ function parseMarkdownContent(fileContent: string) {
 }
 
 function getArticlesFromDir(dirName: string, category: string): AboutArticle[] {
-  const fullPath = path.join(process.cwd(), dirName);
+  const fullPath = path.join(process.cwd(), '..', dirName);
   if (!fs.existsSync(fullPath)) return [];
   
   const files = fs.readdirSync(fullPath).filter(f => f.endsWith('.md'));

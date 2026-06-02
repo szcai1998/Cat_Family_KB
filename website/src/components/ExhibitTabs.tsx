@@ -65,7 +65,7 @@ export default function ExhibitTabs({ sections, museumHook, coreIdentity }: Exhi
               ul: ({node, ...props}) => <ul style={{ marginBottom: '1rem', paddingLeft: '1.5rem' }} {...props} />,
               li: ({node, ...props}) => <li style={{ marginBottom: '0.5rem' }} {...props} />,
               a: ({node, href, ...props}) => {
-                if (href?.startsWith('../04_Visual_Production')) {
+                if (typeof href === 'string' && href.startsWith('../04_Visual_Production')) {
                   const cleanHref = href.replace(/.*04_Visual_Production\//, '/visuals/');
                   return <img src={cleanHref} alt={props.children?.toString() || 'Image'} style={{ maxWidth: '100%', borderRadius: '8px', margin: '2rem 0', display: "block" }} />;
                 }
@@ -73,7 +73,7 @@ export default function ExhibitTabs({ sections, museumHook, coreIdentity }: Exhi
               },
               img: ({node, src, ...props}) => {
                 let finalSrc = src;
-                if (src?.includes('04_Visual_Production')) {
+                if (typeof src === 'string' && src.includes('04_Visual_Production')) {
                   finalSrc = src.replace(/.*04_Visual_Production\//, '/visuals/');
                 }
                 return <img src={finalSrc} style={{ maxWidth: '100%', borderRadius: '8px', margin: '2rem 0', display: "block", boxShadow: '0 10px 30px rgba(0,0,0,0.5)' }} {...props} />;

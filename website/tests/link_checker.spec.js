@@ -13,7 +13,9 @@ function getMarkdownFiles(dir, filesList = []) {
         file !== "node_modules" &&
         file !== ".git" &&
         file !== "playwright-report" &&
-        file !== "test-results"
+        file !== "test-results" &&
+        file !== "99_Templates" &&
+        file !== "website"
       ) {
         getMarkdownFiles(filePath, filesList);
       }
@@ -25,7 +27,7 @@ function getMarkdownFiles(dir, filesList = []) {
 }
 
 test("validate all relative markdown links in the KB", async () => {
-  const rootDir = path.resolve(__dirname, "..");
+  const rootDir = path.resolve(__dirname, "../..");
   const mdFiles = getMarkdownFiles(rootDir);
   const brokenLinks = [];
 

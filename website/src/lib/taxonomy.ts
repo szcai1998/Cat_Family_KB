@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-const taxonomyDirectory = path.join(process.cwd(), '01_Taxonomy_and_Evolution');
+const taxonomyDirectory = path.join(process.cwd(), '..', '01_Taxonomy_and_Evolution');
 
 export interface TaxonomyArticle {
   slug: string;

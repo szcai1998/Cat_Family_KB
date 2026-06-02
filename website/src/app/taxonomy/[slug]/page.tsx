@@ -62,7 +62,7 @@ export default async function TaxonomyArticlePage({ params }: { params: Promise<
             },
             img: ({node, src, ...props}) => {
               let finalSrc = src;
-              if (src?.includes('04_Visual_Production')) {
+              if (typeof src === 'string' && src.includes('04_Visual_Production')) {
                 finalSrc = src.replace(/.*04_Visual_Production\//, '/visuals/');
               }
               return <img src={finalSrc} style={{ maxWidth: '100%', borderRadius: '12px', margin: '2.5rem auto', display: "block", boxShadow: '0 15px 40px rgba(0,0,0,0.6)' }} {...props} />;

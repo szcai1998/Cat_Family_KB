@@ -2,11 +2,11 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const contentDirectory = path.join(process.cwd(), '02_Species_Profiles');
+const contentDirectory = path.join(process.cwd(), '..', '02_Species_Profiles');
 
 // Helper to reliably find visual assets regardless of casing or _suffix conventions
 function findImageFile(directory: string, slug: string): string | null {
-  const dirPath = path.join(process.cwd(), '04_Visual_Production', directory);
+  const dirPath = path.join(process.cwd(), '..', '04_Visual_Production', directory);
   if (!fs.existsSync(dirPath)) return null;
   
   const files = fs.readdirSync(dirPath);
