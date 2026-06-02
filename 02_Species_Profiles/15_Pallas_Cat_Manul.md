@@ -93,25 +93,14 @@ To thrive in a land of extreme temperatures and minimal cover, the manul evolved
 - **Conservation panel:** Infographic showing the food web link between pikas, rodenticides, and manul population health.
 - **AI prompt (Midjourney/DALL-E style):** _A round, exceptionally fluffy Pallas's cat crouching on a frosty, rocky outcrop in the Mongolian steppe at dawn, its long fur dusted with frost, flat-set ears, grumpy face, intense round yellow eyes staring directly at the camera. Soft golden dawn light, vast barren grassland in the background, photorealistic, cinematic wildlife portrait._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/15_pallas_cat_manul.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/15_pallas_cat_manul.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/15_pallas_cat_manul.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/15_pallas_cat_manul.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/15_Pallas_Cat_Manul_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/15_Pallas_Cat_Manul_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/15_Pallas_Cat_Manul_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/15_Pallas_Cat_Manul_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/15_Pallas_Cat_Manul_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/15_Pallas_Cat_Manul_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

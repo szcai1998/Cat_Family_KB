@@ -96,25 +96,14 @@ Servals roam wet savannas and _riparian_ (riverbank and lakeside) grasslands thr
 - **Conservation panel:** Graphic illustrating wetland habitat loss over time and the critically small North African subspecies range.
 - **AI prompt (Midjourney/DALL-E style):** _A serval cat suspended mid-air above a moonlit African reed bed, both front paws extended downward, huge oval ears flat against its skull, spotted golden coat catching silver moonlight. Long grass blurs below, stars visible through a break in the clouds, motion-blur on the grass tips from the leap, photorealistic wildlife photography, high-speed shutter freeze, dramatic low-angle perspective._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/13_serval.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/13_serval.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/13_serval.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/13_serval.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/13_Serval_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/13_Serval_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/13_Serval_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/13_Serval_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/13_Serval_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/13_Serval_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

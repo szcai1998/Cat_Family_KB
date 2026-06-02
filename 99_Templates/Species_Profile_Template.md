@@ -7,6 +7,8 @@ Use this template as a starting point for creating new species profiles. Replace
 
 > {One‑sentence museum identity}
 
+_Hero Poster (Pending User Generation)_
+
 ## 1. Core Identity
 
 - **Common name:** {Common name}
@@ -72,7 +74,16 @@ List 3–5 distinctive traits and briefly explain their function.
 
 Describe ideas for hero posters, preview cards, anatomy posters, range maps, hunting scene posters, 3D models and conservation panels.  Use this section to coordinate with artists or AI tools.
 
-## 11. Internal Links
+## 11. Deep Dive Exhibits
+
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/{Common_Name}_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/{Common_Name}_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/{Common_Name}_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/{Common_Name}_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/{Common_Name}_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/{Common_Name}_Signature_Traits.md|Signature Traits]]
+
+## 12. Internal Links
 
 Provide links to relevant taxonomy pages, lineage pages and comparison pages using Obsidian link syntax.  For example:
 

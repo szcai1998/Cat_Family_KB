@@ -84,14 +84,16 @@ Geoffroy’s cat is South America’s answer to the ultimate survivor. While oth
 - **Hunting Scene:** A Geoffroy's cat wading into a shallow marsh at twilight, striking at a fish.
 - **Range Map:** Showing its expansive dominance over the southern cone of South America.
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-![Preview Card](../04_Visual_Production/Preview_Cards/32_geoffroys_cat_preview.png)
-![Anatomy Poster](../04_Visual_Production/Anatomy_Trait_Posters/32_geoffroys_cat_anatomy.png)
-![Hunting Scene](../04_Visual_Production/Hunting_Video_Posters/32_geoffroys_cat_hunting.png)
-![Range Map](../04_Visual_Production/Range_Maps/32_geoffroys_cat_range.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/32_Geoffroys_Cat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/32_Geoffroys_Cat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/32_Geoffroys_Cat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/32_Geoffroys_Cat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/32_Geoffroys_Cat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/32_Geoffroys_Cat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 
 [[../01_Taxonomy_and_Evolution/Cat_Lineages_Overview.md|Ocelot Lineage]]
-[[../05_Ecology_Comparisons/Big_Cats_vs_Small_Cats.md|Small Cats]]
+[[../01_Taxonomy_and_Evolution/Big_Cats_vs_Small_Cats.md|Small Cats]]

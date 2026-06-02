@@ -96,25 +96,14 @@ Despite these extraordinary specialisations, almost nothing is known about this 
 - **AI prompt (Midjourney/DALL-E style):** _"A Flat-headed Cat (Prionailurus planiceps) at the edge of a dark Bornean rainforest stream at night, plunging its dramatically flattened, elongated head into clear shallow water to catch a small fish, non-retractable claws gripping the mossy riverbank stones, webbed forepaws partially submerged, reddish-brown spotted fur glistening with water, high-set eyes catching green reflected light, hyper-realistic wildlife photography style, split-view waterline composition (half above water, half below), rich dark teal and forest green palette, National Geographic quality, 16mm wide angle"_
 - **Conservation panel:** Split composition — left: pristine Bornean forest river with the cat silhouetted against reflected stars; right: the same river brown with mining silt and palm oil effluent foam, the cat absent. Text: _"The most specialised cat alive depends on the cleanest rivers. We are poisoning both."_ A stark, minimalist palette shift from deep jewel-greens to industrial ochre.
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/24_flat_headed_cat.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/24_flat_headed_cat.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/24_flat_headed_cat.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/24_flat_headed_cat.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/24_Flat_Headed_Cat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/24_Flat_Headed_Cat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/24_Flat_Headed_Cat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/24_Flat_Headed_Cat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/24_Flat_Headed_Cat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/24_Flat_Headed_Cat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

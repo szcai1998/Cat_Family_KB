@@ -85,14 +85,16 @@ The kodkod—or _güiña_ in its native Chile—is the smallest wild cat in the 
 - **Hunting Scene:** A kodkod darting through a dense stand of bamboo in a misty, dark forest.
 - **Range Map:** Showing its extremely narrow, restricted range along the coast of Chile.
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-![Preview Card](../04_Visual_Production/Preview_Cards/33_kodkod_preview.png)
-![Anatomy Poster](../04_Visual_Production/Anatomy_Trait_Posters/33_kodkod_anatomy.png)
-![Hunting Scene](../04_Visual_Production/Hunting_Video_Posters/33_kodkod_hunting.png)
-![Range Map](../04_Visual_Production/Range_Maps/33_kodkod_range.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/33_Kodkod_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/33_Kodkod_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/33_Kodkod_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/33_Kodkod_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/33_Kodkod_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/33_Kodkod_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 
 [[../01_Taxonomy_and_Evolution/Cat_Lineages_Overview.md|Ocelot Lineage]]
-[[../05_Ecology_Comparisons/Big_Cats_vs_Small_Cats.md|Small Cats]]
+[[../01_Taxonomy_and_Evolution/Big_Cats_vs_Small_Cats.md|Small Cats]]

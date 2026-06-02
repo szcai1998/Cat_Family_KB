@@ -96,25 +96,14 @@ What earns the Bobcat its museum standing is not rarity but mastery — the mast
 - **AI prompt (Midjourney/DALL-E style):** "A Bobcat standing on a rocky granite ledge in a California chaparral hillside at golden hour, spotted tawny-rufous coat, distinctive short bobbed tail raised slightly, alert amber eyes, tufted cheek ruffs, dry California oak brush in background with warm evening light raking across the scene, wildlife documentary photography style, Nat Geo editorial quality, 16:9"
 - **Conservation panel:** Urban wildlife infographic showing a Bobcat home range overlaid on a suburban map — illustrating how the cat navigates parks, golf courses, drainage channels, and road crossings; inset showing rodenticide bioaccumulation chain from rat to Bobcat; call-to-action panel for rodenticide alternatives
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/21_bobcat.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/21_bobcat.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/21_bobcat.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/21_bobcat.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/21_Bobcat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/21_Bobcat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/21_Bobcat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/21_Bobcat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/21_Bobcat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/21_Bobcat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

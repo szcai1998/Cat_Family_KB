@@ -96,25 +96,14 @@ What makes the Bengal Tiger biologically extraordinary is its versatility. Most 
 - **AI prompt (Midjourney/DALL-E style):** "A Royal Bengal Tiger swimming powerfully across a wide tidal river at golden hour in the Sundarbans mangrove forest, water rippling around its chest, amber eyes focused ahead, lush green mangrove roots visible on both banks, cinematic wildlife photography style, soft rim lighting, Nat Geo editorial quality, 16:9 aspect ratio"
 - **Conservation panel:** Split-panel infographic: left side shows historical range (pre-1900 across all of Asia, shown in faded orange) versus current fragmented range (shown in vivid saffron); right side shows Project Tiger reserve network and corridor system with cub silhouettes illustrating population milestones
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/18_bengal_tiger.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/18_bengal_tiger.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/18_bengal_tiger.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/18_bengal_tiger.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/18_Bengal_Tiger_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/18_Bengal_Tiger_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/18_Bengal_Tiger_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/18_Bengal_Tiger_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/18_Bengal_Tiger_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/18_Bengal_Tiger_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

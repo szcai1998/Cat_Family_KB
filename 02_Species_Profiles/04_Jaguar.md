@@ -94,25 +94,14 @@ What truly sets the jaguar apart is its jaw-dropping physical power. It possesse
 - **Conservation panel:** Graphic illustrating the Jaguar Corridor Initiative and its cross-border wildlife pathways.
 - **AI prompt (Midjourney/DALL-E style):** _A powerful, muscular jaguar wading stealthily through shallow emerald river water in the Amazon rainforest, dappled golden sunlight filtering through the dense canopy above and hitting its beautiful spotted rosettes. Water ripples around its chest, intense golden eyes locked on the camera, photorealistic, cinematic lighting, ultra-sharp detail._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/04_jaguar.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/04_jaguar.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/04_jaguar.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/04_jaguar.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/04_Jaguar_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/04_Jaguar_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/04_Jaguar_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/04_Jaguar_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/04_Jaguar_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/04_Jaguar_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

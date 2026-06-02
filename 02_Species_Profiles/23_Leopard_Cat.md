@@ -95,25 +95,14 @@ In the wild, the Leopard Cat is an ecological generalist (a species that thrives
 - **AI prompt (Midjourney/DALL-E style):** _"A Leopard Cat (Prionailurus bengalensis) perched on a mossy rainforest branch at dusk, Southeast Asian tropical forest background, rich tawny coat with bold dark rosettes, piercing yellow-green eyes, characteristic white eyebrow spots clearly visible, sleek and alert posture, one paw dangling elegantly, hyper-realistic wildlife photography style, 85mm portrait lens, shallow depth of field, warm dappled light filtering through jungle canopy, National Geographic aesthetic, jewel-tone greens and burnt amber colour palette"_
 - **Conservation panel:** Three-panel strip — (1) wild Leopard Cat in pristine forest; (2) a Bengal domestic cat in a home (showing the genetic connection, with a caption explaining the lineage); (3) a deforested palm oil landscape with a 'CRITICALLY ENDANGERED — Island subspecies' warning overlay. Text: _"One species, two worlds — and a shared future at risk."_
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/23_leopard_cat.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/23_leopard_cat.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/23_leopard_cat.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/23_leopard_cat.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/23_Leopard_Cat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/23_Leopard_Cat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/23_Leopard_Cat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/23_Leopard_Cat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/23_Leopard_Cat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/23_Leopard_Cat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

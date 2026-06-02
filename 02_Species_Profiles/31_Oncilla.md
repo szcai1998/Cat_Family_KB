@@ -35,7 +35,7 @@ Barely larger than a domestic kitten, the oncilla—or Northern Tiger Cat—is a
 - **Continents:** Central America, South America
 - **Countries/regions:** Costa Rica down into northern South America, extending heavily into northern and central Brazil.
 - **Range type:** Highly fragmented.
-- **Range notes:** Recent genetic studies suggest the southern populations might actually be a completely distinct species (the Southern Tiger Cat, *Leopardus guttulus*).
+- **Range notes:** Recent genetic studies suggest the southern populations might actually be a completely distinct species (the Southern Tiger Cat, _Leopardus guttulus_).
 
 ## 4. Habitat
 
@@ -85,14 +85,16 @@ Barely larger than a domestic kitten, the oncilla—or Northern Tiger Cat—is a
 - **Hunting Scene:** An oncilla mid-pounce, leaping onto a mouse in a dusty savanna.
 - **Range Map:** Showing its fragmented distribution across northern South America and Brazil.
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-![Preview Card](../04_Visual_Production/Preview_Cards/31_oncilla_preview.png)
-![Anatomy Poster](../04_Visual_Production/Anatomy_Trait_Posters/31_oncilla_anatomy.png)
-![Hunting Scene](../04_Visual_Production/Hunting_Video_Posters/31_oncilla_hunting.png)
-![Range Map](../04_Visual_Production/Range_Maps/31_oncilla_range.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/31_Oncilla_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/31_Oncilla_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/31_Oncilla_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/31_Oncilla_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/31_Oncilla_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/31_Oncilla_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 
 [[../01_Taxonomy_and_Evolution/Cat_Lineages_Overview.md|Ocelot Lineage]]
-[[../05_Ecology_Comparisons/Big_Cats_vs_Small_Cats.md|Small Cats]]
+[[../01_Taxonomy_and_Evolution/Big_Cats_vs_Small_Cats.md|Small Cats]]

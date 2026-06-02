@@ -93,25 +93,14 @@ With an incredibly muscular neck and shoulders, the leopard performs jaw-droppin
 - **Conservation panel:** Infographic illustrating non-lethal livestock protection methods.
 - **AI prompt (Midjourney/DALL-E style):** _A sleek African leopard draped gracefully over a thick horizontal branch of an acacia tree at sunset, one front paw hanging down, warm orange sunlight catching the details of its golden rosetted fur. Dappled light filtering through the leaves, background savanna in soft focus, photorealistic, cinematic composition, high-detail telephoto shot._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/05_african_leopard.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/05_african_leopard.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/05_african_leopard.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/05_african_leopard.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/05_African_Leopard_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/05_African_Leopard_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/05_African_Leopard_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/05_African_Leopard_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/05_African_Leopard_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/05_African_Leopard_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

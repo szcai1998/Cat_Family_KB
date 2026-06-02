@@ -95,25 +95,14 @@ But the Sand Cat's most extraordinary adaptation is beneath the feet, not above 
 - **AI prompt (Midjourney/DALL-E style):** "A Sand Cat with enormous wide-set low ears sitting on a pale golden sand dune in the Sahara Desert at night under a star-filled sky, its creamy spotted fur luminous in moonlight, wide flat head facing directly toward the viewer, vast dark desert horizon behind it, cinematic wildlife photography, hyper-detailed fur texture, Nat Geo editorial quality, 16:9 aspect ratio"
 - **Conservation panel:** Illustrated infographic showing the Sand Cat's survival stack — five stacked adaptive icons representing: fur-soled paws (heat), water-free diet (hydration), low ears (sound hunting), pale coat (camouflage), and nocturnal schedule (heat avoidance) — each with a brief label; secondary panel showing the gap between IUCN LC classification and true data uncertainty, with icons representing threats
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/22_sand_cat.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/22_sand_cat.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/22_sand_cat.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/22_sand_cat.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/22_Sand_Cat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/22_Sand_Cat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/22_Sand_Cat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/22_Sand_Cat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/22_Sand_Cat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/22_Sand_Cat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

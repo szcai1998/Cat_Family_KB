@@ -91,25 +91,14 @@ To achieve speeds up to **113 km/h** (70 mph), the cheetah sacrificed the heavy 
 - **Conservation panel:** Graphic explaining the prehistoric genetic bottleneck and how modern research centers are working to preserve genetic health.
 - **AI prompt (Midjourney/DALL-E style):** _A sleek cheetah frozen mid-stride at full speed across the dusty Serengeti plain, body fully extended, muscles rippling under its spotted coat, dust kicked up in a cloud behind it. Extremely low angle, high-speed shutter freeze, motion-blurred yellow grass background, hot sun, photorealistic wildlife action photography._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/10_cheetah.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/10_cheetah.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/10_cheetah.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/10_cheetah.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/10_Cheetah_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/10_Cheetah_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/10_Cheetah_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/10_Cheetah_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/10_Cheetah_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/10_Cheetah_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

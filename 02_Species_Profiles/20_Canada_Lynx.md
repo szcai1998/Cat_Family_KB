@@ -95,25 +95,14 @@ In the United States, the Canada Lynx clings to existence in a handful of isolat
 - **AI prompt (Midjourney/DALL-E style):** "A Canada Lynx with enormous furry paws standing in deep powder snow in a dense boreal spruce forest in winter, its silver-grey fur contrasting against the white snow, prominent black ear tufts, wide facial ruff, pale yellow-green eyes, soft diffuse winter light filtering through snow-laden branches, wildlife photography style, Nat Geo quality, 16:9 aspect ratio"
 - **Conservation panel:** Side-by-side comparison of Canada Lynx and Bobcat range maps showing northward range shift of the bobcat as a warming indicator; inset graph showing 90-year snowshoe hare and lynx population cycle data; icons showing key threats including logging, climate (snowpack loss), and road fragmentation
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/20_canada_lynx.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/20_canada_lynx.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/20_canada_lynx.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/20_canada_lynx.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/20_Canada_Lynx_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/20_Canada_Lynx_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/20_Canada_Lynx_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/20_Canada_Lynx_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/20_Canada_Lynx_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/20_Canada_Lynx_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

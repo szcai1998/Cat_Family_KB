@@ -27,6 +27,14 @@ This index lists every species currently covered in the **Cat Family Atlas**. Cl
 |  22 | [Sand Cat](../02_Species_Profiles/22_Sand_Cat.md)                                       | _Felis margarita_          | Desert cat exhibit                | Desert ghost — surviving extreme heat and drought without water        |
 |  23 | [Leopard Cat](../02_Species_Profiles/23_Leopard_Cat.md)                                 | _Prionailurus bengalensis_ | Forest cat exhibit                | Asia's rosetted forest climber, ancestor of the Bengal breed           |
 |  24 | [Flat-headed Cat](../02_Species_Profiles/24_Flat_Headed_Cat.md)                         | _Prionailurus planiceps_   | Wetland cat exhibit               | Flat-skulled peat-swamp angler with non-retractable claws              |
+|  30 | [Margay](../02_Species_Profiles/30_Margay.md)                                           | _Leopardus wiedii_         | Canopy acrobat exhibit            | The acrobat of the rainforest canopy                                   |
+|  31 | [Oncilla](../02_Species_Profiles/31_Oncilla.md)                                         | _Leopardus tigrinus_       | Savanna cat exhibit               | The spotted ghost of the scrublands                                    |
+|  32 | [Geoffroy's Cat](../02_Species_Profiles/32_Geoffroys_Cat.md)                            | _Leopardus geoffroyi_      | South American cat exhibit        | The adaptable survivor of the southern steppes                         |
+|  33 | [Kodkod](../02_Species_Profiles/33_Kodkod.md)                                           | _Leopardus guigna_         | Temperate rainforest exhibit      | The phantom of the Valdivian rainforest                                |
+|  34 | [Pampas Cat](../02_Species_Profiles/34_Pampas_Cat.md)                                   | _Leopardus colocola_       | Grassland cat exhibit             | The fierce, coarse-furred wanderer of the Patagonian grasslands        |
+|  35 | [Andean Mountain Cat](../02_Species_Profiles/35_Andean_Mountain_Cat.md)                 | _Leopardus jacobita_       | High-altitude cat exhibit         | The sacred ghost of the high peaks, wrapped in a silver coat           |
+|  36 | [Jaguarundi](../02_Species_Profiles/36_Jaguarundi.md)                                   | _Herpailurus yagouaroundi_ | Weasel cat exhibit                | The bizarre, weasel-like otter cat that breaks all the rules           |
+|  37 | [Rusty-spotted Cat](../02_Species_Profiles/37_Rusty_Spotted_Cat.md)                     | _Prionailurus rubiginosus_ | Micro predator exhibit            | The hummingbird of the cat family, a pint-sized predator               |
 
 ---
 

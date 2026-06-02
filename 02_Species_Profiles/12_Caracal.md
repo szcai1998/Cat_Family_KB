@@ -95,25 +95,14 @@ Caracals patrol a sweeping empire that stretches from the savannas and semi-dese
 - **Conservation panel:** Infographic on human–caracal conflict zones and mitigation success stories.
 - **AI prompt (Midjourney/DALL-E style):** _A sleek tawny caracal exploding upward from dry African savanna scrub, black ear tufts fully erect, body twisted mid-leap, claws extended toward a blur of guineafowl wings. Golden-hour backlight, dramatic shadow on red laterite soil, photorealistic wildlife photography style, 85mm telephoto compression, ultra-sharp fur detail._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/12_caracal.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/12_caracal.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/12_caracal.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/12_caracal.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/12_Caracal_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/12_Caracal_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/12_Caracal_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/12_Caracal_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/12_Caracal_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/12_Caracal_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

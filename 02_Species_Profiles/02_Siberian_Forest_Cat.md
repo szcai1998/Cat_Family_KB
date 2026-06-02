@@ -15,7 +15,7 @@ tags:
 
 > **A rugged Russian treasure, wrapped in a plush triple coat designed to brave the sub-zero taiga**
 
-![Siberian Forest Cat](../04_Visual_Production/Hero_Posters/02_siberian_forest_cat.png)
+_Hero Poster (Pending User Generation)_
 
 ## 1. Core Identity
 
@@ -94,25 +94,14 @@ To survive the sub-zero winters of its homeland, the Siberian forest cat evolved
 - **Conservation panel:** Infographic outlining the history of natural breeds in Russia and tips for domestic care.
 - **AI prompt (Midjourney/DALL-E style):** _A magnificent, fluffy Siberian forest cat with green eyes sitting majestically on a snow-covered pine log in a Siberian birch forest, thick neck ruff, long whiskers, soft natural lighting, magical winter atmosphere with light snowfall. Photorealistic, high-detail fur texture, 85mm portrait style._
 
-## 11. MVP Visual Deep Dive
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual MVP, establishing the baseline visual prompts for the rest of the Atlas.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/02_siberian_forest_cat.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/02_siberian_forest_cat.png)
-
-### ❄️ Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/02_siberian_forest_cat.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/02_siberian_forest_cat.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/02_Siberian_Forest_Cat_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/02_Siberian_Forest_Cat_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/02_Siberian_Forest_Cat_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/02_Siberian_Forest_Cat_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/02_Siberian_Forest_Cat_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/02_Siberian_Forest_Cat_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

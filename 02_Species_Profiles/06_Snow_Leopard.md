@@ -93,25 +93,14 @@ Every aspect of the snow leopard's anatomy is a marvel of high-altitude adaptati
 - **Conservation panel:** Infographic showing the positive impact of livestock insurance programs on local herder communities.
 - **AI prompt (Midjourney/DALL-E style):** _A beautiful snow leopard crouched on a snowy, windswept rock ledge high in the Himalayas at dusk, its thick bushy tail wrapped around its paws, pale grey rosetted fur catching the soft twilight light. Swirling snow in the air, jagged mountain peaks in the background under a dark blue sky, photorealistic, cinematic composition, high-detail telephoto shot._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/06_snow_leopard.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/06_snow_leopard.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/06_snow_leopard.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/06_snow_leopard.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/06_Snow_Leopard_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/06_Snow_Leopard_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/06_Snow_Leopard_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/06_Snow_Leopard_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/06_Snow_Leopard_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/06_Snow_Leopard_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

@@ -95,25 +95,14 @@ Despite its impressive size, which matches or exceeds that of some big cats, the
 - **Conservation panel:** Infographic showing the success of the Florida Panther recovery project and the import of highway underpasses.
 - **AI prompt (Midjourney/DALL-E style):** _A magnificent cougar standing proud on a weathered granite ledge in the Rocky Mountains at dusk, its tawny fur lit by the soft purple and gold twilight. Massive hind legs visible, long tail curved slightly at the tip, snow-capped peaks in the distant background, photorealistic, cinematic wildlife photography, 70-200mm lens shot._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/11_puma_cougar_mountain_lion.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/11_puma_cougar_mountain_lion.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/11_puma_cougar_mountain_lion.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/11_puma_cougar_mountain_lion.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/11_Puma_Cougar_Mountain_Lion_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/11_Puma_Cougar_Mountain_Lion_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/11_Puma_Cougar_Mountain_Lion_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/11_Puma_Cougar_Mountain_Lion_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/11_Puma_Cougar_Mountain_Lion_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/11_Puma_Cougar_Mountain_Lion_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 

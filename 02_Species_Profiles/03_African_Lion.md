@@ -93,25 +93,14 @@ Within the pride, there is a striking display of sexual dimorphism (a biological
 - **Conservation panel:** Infographic demonstrating the success of community guardians in reducing livestock conflict.
 - **AI prompt (Midjourney/DALL-E style):** _A magnificent male African lion with a massive, dark, flowing mane standing proudly atop a massive granite boulder in the Serengeti at sunrise, warm golden light catching its fur, dust motes in the air, a vast golden savanna stretching to the horizon under a soft morning sky. Majestic, detailed wildlife photography, 200mm lens, tack-sharp eye detail._
 
-## 11. Visual Production Exhibits
+## 11. Deep Dive Exhibits
 
-This section showcases the native Antigravity AI generations for the Visual Production.
-
-### 🪪 Preview Card
-
-![Preview Card](../04_Visual_Production/Preview_Cards/03_african_lion.png)
-
-### 🧬 Anatomy Traits
-
-![Anatomy Diagram](../04_Visual_Production/Anatomy_Trait_Posters/03_african_lion.png)
-
-### 🎬 Hunting Scene
-
-![Hunting Action](../04_Visual_Production/Hunting_Video_Posters/03_african_lion.png)
-
-### 🗺️ Range Map
-
-![Geographic Map](../04_Visual_Production/Range_Maps/03_african_lion.png)
+- [[../03_Exhibit_Modules/Behavior_and_Ecology/03_African_Lion_Behavior_and_Ecology.md|Behavior and Ecology]]
+- [[../03_Exhibit_Modules/Build_and_Scale/03_African_Lion_Build_and_Scale.md|Build and Scale]]
+- [[../03_Exhibit_Modules/Conservation/03_African_Lion_Conservation.md|Conservation]]
+- [[../03_Exhibit_Modules/Diet_and_Hunting/03_African_Lion_Diet_and_Hunting.md|Diet and Hunting]]
+- [[../03_Exhibit_Modules/Range_and_Habitat/03_African_Lion_Range_and_Habitat.md|Range and Habitat]]
+- [[../03_Exhibit_Modules/Signature_Traits/03_African_Lion_Signature_Traits.md|Signature Traits]]
 
 ## 12. Internal Links
 
